@@ -24,6 +24,12 @@ lucasfilm.com
 renderman.pixar.com
 store.renderman.pixar.com
 community.renderman.pixar.com
+disneyplus.com
+privacychoices-stage.thewaltdisneycompany.com
+privacy.thewaltdisneycompany.com
+dev.thewaltdisneycompany.com
+qa.privacy.thewaltdisneycompany.com
+storiesmatter.thewaltdisneycompany.com
 
 
 

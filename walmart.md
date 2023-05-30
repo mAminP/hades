@@ -1,5 +1,6 @@
 ## Root Doamins
 
+``` 
 adchemy.com
 alertinnovation.com
 amigo.com
@@ -61,3 +62,4 @@ walmartstores.com
 walmartusapharmacy.com
 wmt.co
 zeekit.me
+```

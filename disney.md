@@ -2,7 +2,6 @@
 
 ```
 disneyconnect.com
-disney.fandom.com
 thewaltdisneycompany.com
 thewaltdisneycompany.com
 freeform.com

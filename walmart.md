@@ -1,9 +1,7 @@
 ## Root Doamins
 
-adchemy.com 
-
+adchemy.com
 alertinnovation.com
-
 amigo.com
 asda.com
 aspectiva.com

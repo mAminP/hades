@@ -2,13 +2,9 @@
 
 ```
 disneyconnect.com
-thewaltdisneycompany.com
-thewaltdisneycompany.com
 freeform.com
 disneyplus.com
 disney.nlintroductie-van-disney-plus
-nationalgeographic.com
-disney.com
 thewaltdisneycompany.com
 disney.com
 nationalgeographic.com

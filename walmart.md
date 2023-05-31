@@ -100,4 +100,10 @@ walmartspouseswithamission
 walmartstationery
 walmartstores
 walmartsustainabilityhub
+
+walmart.co.cr
+babytuto.com
+ddiwork.com
+wal.co
+allswellhome.com
 ```

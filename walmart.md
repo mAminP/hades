@@ -62,8 +62,9 @@ walmartstores.com
 walmartusapharmacy.com
 wmt.co
 zeekit.me
-wal-mart
-walmart
+
+
+
 walmart-jump
 walmartapis
 walmartbrandcenter
@@ -72,7 +73,6 @@ walmartcanada
 walmartcanadafinancialservices
 walmartcareerswithamission
 walmartcentroamerica
-walmartchile
 walmartclaimsservices
 walmartcommunityvotes
 walmartcontacts
@@ -84,7 +84,6 @@ walmartimages
 walmartjapanseiyu
 walmartlabs
 walmartlogistics
-walmartmedia
 walmartmexico
 walmartmexicoycam
 walmartmmxcam
@@ -101,5 +100,4 @@ walmartspouseswithamission
 walmartstationery
 walmartstores
 walmartsustainabilityhub
-vudu
 ```

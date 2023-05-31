@@ -9,3 +9,8 @@ sdgenews.com
 sdgeactsave.com	
 socalgasinsiders.com    => Xnot approved yet
 socalgas.com            => Xnot approved yet
+sempraemployeegiving.org
+sdgemarketplace.com
+sempralng.com/
+
+https://website.informer.com/email/DomainNames@sempra.com

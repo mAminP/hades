@@ -7,10 +7,11 @@ semprautilities.com
 sdge.com
 sdgenews.com
 sdgeactsave.com	
-socalgasinsiders.com    => Xnot approved yet
-socalgas.com            => Xnot approved yet
+socalgasinsiders.com  
+socalgas.com          
 sempraemployeegiving.org
 sdgemarketplace.com
-sempralng.com/
+sempralng.com
+ecogas.com.mx
 
 https://website.informer.com/email/DomainNames@sempra.com

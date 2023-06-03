@@ -1,0 +1,3 @@
+amigo.com
+autodiscover.amigo.com
+www.amigo.com

@@ -1,0 +1,17 @@
+amigo.com
+autoconfig.amigo.com
+autodiscover.amigo.com
+enterpriseenrollment.amigo.com
+enterpriseregistration.amigo.com
+ftp.amigo.com
+home.amigo.com
+localhost.amigo.com
+lyncdiscover.amigo.com
+mail.amigo.com
+ok.amigo.com
+sip.amigo.com
+ssh.amigo.com
+web.amigo.com
+www.amigo.com
+www.hispanicservices.amigo.com
+www.porta.amigo.com

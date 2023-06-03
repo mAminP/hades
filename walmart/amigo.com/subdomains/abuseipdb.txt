@@ -1,0 +1,12 @@
+ok.amigo.com
+www.amigo.com
+autoconfig.amigo.com
+mail.amigo.com
+sip.amigo.com
+enterpriseenrollment.amigo.com
+ftp.amigo.com
+lyncdiscover.amigo.com
+enterpriseregistration.amigo.com
+ssh.amigo.com
+autodiscover.amigo.com
+localhost.amigo.com

@@ -1,17 +1,1 @@
 adchemy.com
-dev-banner.adchemy.com
-www.dev-banner.adchemy.com
-mail.adchemy.com
-www.mail.adchemy.com
-events.adchemy.com
-www.events.adchemy.com
-clients.adchemy.com
-www.clients.adchemy.com
-platform.adchemy.com
-www.platform.adchemy.com
-banner.adchemy.com
-www.banner.adchemy.com
-adchemy.com
-adchemy.com
-alps.adchemy.com
-www.alps.adchemy.com

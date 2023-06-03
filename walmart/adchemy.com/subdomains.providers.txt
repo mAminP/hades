@@ -84,5 +84,3 @@ www.platform.adchemy.com
 www.www.adchemy.com
 www3.adchemy.com
 xmail.adchemy.com
-cellware.adm.adchemy.com
-px.pocpoc.io

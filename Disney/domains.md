@@ -72,4 +72,5 @@ disney.co.uk
 disneystreaming.com
 disneystar.com
 disneyanimation.com
+hotstar.com
 ```

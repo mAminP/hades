@@ -7,7 +7,7 @@ watchdisneyfe.com
 blackishtv.com
 campaign-preferences.com
 sqspcdn.com
-disneyconnect.comd
+disneyconnect.com
 disneynow.com
 squarespace-mail.com
 fftvfe.com

@@ -6,7 +6,7 @@
 ---------
 The results of **whoxy.com**, **securitytrails.com**.
 
-Verified:
+### Verified:
 --------
 * sony.net
 * sony.com
@@ -82,7 +82,7 @@ Verified:
 * alphauniverse-latin.com
 * sonycreativesoftware.com
 
-Not Sure:
+### Not Sure:
 ---------
 * xperiarewards.co.uk
 * sonydadc.com

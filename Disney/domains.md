@@ -69,4 +69,7 @@ disney.fi
 disney.se
 disneyturkiye.com.tr
 disney.co.uk
+disneystreaming.com
+disneystar.com
+disneyanimation.com
 ```

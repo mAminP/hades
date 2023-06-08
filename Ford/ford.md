@@ -21,6 +21,44 @@ www.saips.co.il
 ford.ca
 www.newfordtech.com
 www.ford.no
+ford.com
+fordpro.com
+fordpro.ca
+lincoln.com
+omnicraftautoparts.com  
+motorcraft.com
+fordmoney.de
+ford.de 
+ford.co.uk
+ford.ca 
+ford.es 
+ford.fr 
+ford.it 
+ford.nl 
+ford.gr
+ford.dk
+ford.ch
+ford.lu
+ford.si
+ford.hu
+ford.pt
+ford.eu
+ford.be
+ford.se
+fordpro.fr
+fordpro.es
+fordpro.it
+911assist.com
+ask-ford.com
+fordpro.nl
+ford.no
+ford.fi
+ford.ie
+ford.ro
+ford.hu	
+ford.cz
+ford.nl
+ford.pl
 
 Associated emails:
 website.informer.com:
@@ -46,6 +84,8 @@ AS3389:
 19.12.128.0/21
 19.12.136.0/21
 128.5.0.0/20
+19.12.136.0/21
+
 AS10146:
 19.12.32.0/22
 19.12.52.0/22
@@ -350,7 +390,6 @@ subdomains:
     commercial-own-vehicle-summary-prod.ford.com
     commercial-own-vehicle-summary-qa.ford.com
     commercialsolutions.ford.ca
-    commercialsolutions.ford.com
     commercialsolutions.ford.com
     comm.extsp.ford.com
     commoditybuy.ford.com
@@ -924,60 +963,6 @@ subdomains:
     hronline.ford.com
     hrweb.chongqing2.ford.com
     hrweb.chongqing.ford.com
-    2020corsair.lincoln.com
-    api-edu.ecar.ford.com
-    api-edu-ecar.pp.cf.app.ford.com
-    api-lnp-edu.rfaservices.tfoamsng.ford.com
-    api-spdqs.cf.app.ford.com
-    api-sre.cf.app.ford.com
-    api-uat-eza.cf.app.ford.com
-    api-uat.eza.ford.com
-    api-uat-eza.pp.cf.app.ford.com
-    api-uat-oca.cf.app.ford.com
-    api-uat-oca.pp.cf.app.ford.com
-    appv2-safetyinsights.cf.app.ford.com
-    as2mftqa26-gechub.app.ford.com
-    as2mftqa.gechub.ford.com
-    autodiscover.saips.co.il
-    buildingaccess.ford.com
-    buildingaccess.prod.cf.app.ford.com
-    bunkai.ford.com
-    buy.ford.com
-    checkout.ford.com
-    complexity.ford.com
-    cp.ford.com
-    cpr.ford.com
-    crl.ford.com
-    csr-portal-qa.credit-am-eu.ford.com
-    csr-portal-qa-credit-am-eu.pp.cf.app.ford.com
-    customizerservices.ford.com
-    decisioningservice.cf.app.ford.com
-    decisioningservice.prod.cf.app.ford.com
-    devauth1.accessories.ford.ca
-    dev.fma-sandbox.ford.ca
-    dev.fma-sandbox.ford.mx
-    dev.fma-sandbox.ford.no
-    dev.fma-sandbox-lincoln.lincoln.com
-    digitalmarketplace-gcp.prod.cf.app.ford.com
-    edcpd01e.app.ford.com
-    edcpd02e.app.ford.com
-    es.globalaccount.lincoln.com
-    ewav-qa-ext.cf.app.ford.com
-    ewav-qa-ext.pp.cf.app.ford.com
-    fce-aal-gateway-service-prod-fcealfa.prod.cf.app.ford.com
-    fma-sandbox-dev-lincoln.lincoln.com
-    fma-sandbox-perf-lincoln.lincoln.com
-    fma-sandbox-prod-lincoln.lincoln.com
-    fma-sandbox-qa-lincoln.lincoln.com
-    focapi.ford.com
-    force.ford.com
-    ford-credit-web-components-binary-feedback.prod.cf.app.ford.com
-    formservice.cf.app.ford.com
-    formservice.ici.ford.com
-    gip.ford.com
-    go.ford.com
-    groupmanager.ford.com
-    homologation.ford.com
     ici-dcoservice-ici.cf.app.ford.com
     itconnect.ford.com
     lens.ford.com
@@ -1008,287 +993,9 @@ subdomains:
     ravonline.myfcsdsales.ford.com
     reports-qavehicleremarketing.cf.app.ford.com
     rim.ford.com
-    3d.ford.com
-    abuse.mail.newfordtech.com
-    access-edu.cf.app.ford.com
-    access-edu.pp.cf.app.ford.com
-    accessoriesazok.ford.com
-    accessoriesazok.lincoln.com
-    accessories.ford.com
-    account.ford.com
-    accountmanager.ford.com
-    accountmanager.lincoln.com
-    adfsauth-fdspcl2-dealerconnection-com.cf.app.ford.com
-    advisory.sre.ford.com
-    advisory-sre.prod.cf.app.ford.com
-    advocacy.ford.com
-    ahcvp124-vpnin1.ford.com
-    ahcvp125-vpnin1.ford.com
-    ahovp124-vpnau1.ford.com
-    ahovp125-vpnau1.ford.com
-    akamai.wwwdev.brandap.lincoln.com
-    akamai.wwwqa.brandap.lincoln.com
-    alerts.ford.com
-    alexaremotelogin.ford.com
-    amgateway.ford.com
-    angular.wings.ford.com
-    angular-wings.prod.cf.app.ford.com
-    annualreport.ford.com
-    ap.fpsg.ford.com
-    api.customer.econtracting.ford.com
-    api.engq01e.gcp.ford.com
-    api.epsw.ford.com
-    api-epsw.prod.cf.app.ford.com
-    apiext-vehiclegrounding.prod.cf.app.ford.com
-    apiguide.cf.app.ford.com
-    apiguide.ford.com
-    apiguide.prod.cf.app.ford.com
-    api.mps.ford.com
-    api.pd01e.gcp.ford.com
-    api-qa.reportingservices.tfoamsng.ford.com
-    api-qavehicleremarketing.cf.app.ford.com
-    api-qavehicleremarketing.pp.cf.app.ford.com
-    api-stg01e-gcp.pp.cf.app.ford.com
-    api-tfoams.cf.app.ford.com
-    api.tfoams.ford.com
-    api-transformationqa.cf.app.ford.com
-    api-transformationqa.pp.cf.app.ford.com
-    api-uat-gtac-dealerconnection-com.cf.app.ford.com
-    api-uat-gtac-dealerconnection-com.pp.cf.app.ford.com
-    api-uat-swcm.cf.app.ford.com
-    api-uat-tfoams.cf.app.ford.com
-    api-uat-tfoams.pp.cf.app.ford.com
-    applyforcredit.ford.ca
-    artisan.ford.com
-    ashvp140-vpnna1.ford.com
-    ashvp141-vpnna1.ford.com
-    ashvp142-vpnna1.ford.com
-    ashvp143-vpnna1.ford.com
-    ashvp144-vpnna1.ford.com
-    ashvp145-vpnna1.ford.com
-    ashvp146-vpnna1.ford.com
-    ashvp147-vpnna1.ford.com
-    assembler.wp.dev.ford.com
-    assets.github.ford.com
-    assets.githubqa.ford.com
-    auth.accessories.lincoln.com
-    autoshows.ford.com
-    avatars.github.ford.com
-    avatars.githubqa.ford.com
-    avdata.ford.com
-    b2dgwdev.ford.com
-    b2dgw.ford.com
-    b2dgwqa.ford.com
-    blocked.ford.com
-    blog.ford.ca
-    blogue.ford.ca
-    blueovalintelligence.ford.com
-    bp2.ford.com
-    broncomerch.ford.com
-    broncopodcast.ford.com
-    build.lincoln.com
-    caasextapps-pp101.app.ford.com
-    caasextapps-pp101-vip-chiadc01-rprxy2-19.chi.ford.com
-    caasextapps-pp11.app.ford.com
-    caasextapps-pp11-vip-chiadc01-rprxy2-19.chi.ford.com
-    canada.fleet.ford.com
-    careers.ford.com
-    caribe.ford.com
-    ccmerch.ford.com
-    cdndev.ford.com
-    cdn.ford.com
-    centroamerica.ford.com
-    chargers.ford.com
-    checkout-eu.cf.app.ford.com
-    chivp140-vpnna1.ford.com
-    chivp141-vpnna1.ford.com
-    chivp142-vpnna1.ford.com
-    chivp143-vpnna1.ford.com
-    chivp144-vpnna1.ford.com
-    chivp145-vpnna1.ford.com
-    chivp146-vpnna1.ford.com
-    chivp147-vpnna1.ford.com
-    click.ar-mail.ford.com
-    click.br-mail.ford.com
-    cloud.ar-mail.ford.com
-    cloudmanager.ford.com
-    codeload.github.ford.com
-    codeload.githubqa.ford.com
-    collision.ford.com
-    commercial-application.ford.com
-    commercial-own-vehicle-summary-prod.ford.com
-    commercial-own-vehicle-summary-qa.ford.com
-    commtruck.ford.com
-    communication-center.lincoln.com
-    community.ford.com
-    config.ford.no
-    consentinfo.ford.com
-    consentinfo.lincoln.com
     scorecard.complexity.ford.com
     scorecard-complexity-gcp.prod.cf.app.ford.com
-    corpqa.sts.ford.com
-    corp.sts.ford.com
-    cotizacion.ford.com
-    covid19survey.cf.app.ford.com
-    covid19survey.ford.com
-    cpo.ford.ca
-    cpo.ford.com
-    cpo.lincoln.com
-    cpoqa.ford.ca
-    cpoqa.lincoln.com
-    credit.ford.ca
-    credit.ford.com
-    credit.lincoln.com
-    credito.lincoln.com
-    crmapi.ford.com
-    cs.ford.com
-    ctapromos.ici.ford.com
-    data.ford.com
-    data.lincoln.com
-    dats.ford.com
-    dealer.ford.com
-    dealermaint-dlr.prod.cf.app.ford.com
-    dealermerch.ford.ca
-    dealermerch.ford.com
-    demo.accountmanager.lincoln.com
-    demo-ford.ford.com
-    designsystem.ford.com
-    dev1.accessories.ford.ca
-    dev2.accessories.ford.ca
-    dev3.accessories.ford.ca
-    dev4.accessories.ford.ca
-    dev.accessories.lincoln.com
-    devauth2.accessories.ford.ca
-    devauth3.accessories.ford.ca
-    devauth4.accessories.ford.ca
-    devauth.accessories.lincoln.com
-    devcmsweb02.ford.com
-    developer.ford.com
-    dev.fma-sandbox.ford.com
-    dev.fma-sandbox-lincoln.ford.com
-    dev.glb.ford.com
-    dev.permissions.lincoln.com
-    devservices.cf.app.ford.com
-    devservices.ford.com
-    dev.tmcexplorer.cv.ford.com
-    dewey.ford.com
-    d.ford.com
-    dp.ford.com
-    drivingford.india.ford.com
-    dsp-osb.prod.cf.app.ford.com
-    dvd.lincoln.com
-    earlyaccess.ford.com
-    ecaps-ap-prod.cf.app.ford.com
-    ecaps-ap-prod.prod.cf.app.ford.com
     security-audit-qavehicleremarketing.cf.app.ford.com
-    edu.accessories.ford.com
-    edu.accessories.lincoln.com
-    eduauth1.accessories.ford.ca
-    eduauth.accessories.lincoln.com
-    eduorigin.accessories.lincoln.com
-    elearning.ford.com
-    elearning.lincoln.com
-    electricmodelwholesale.prod.cf.app.ford.com
-    emailpages.eutrans.ford.com
-    email-pcf.cf.app.ford.com
-    email.pcf.ford.com
-    emergencyassistance.ford.com
-    emergencyassistance.ford.no
-    employeemerch.ford.com
-    enterpriseenrollment.saips.co.il
-    enterpriseregistration.saips.co.il
-    epsw.ford.com
-    es.bp3.ford.com
-    es.bp3.lincoln.com
-    es-m.ford.com
-    es-m.lincoln.com
-    espanol.lincoln.com
-    esperf.globalaccount.lincoln.com
-    esp.ford.com
-    esp.lincoln.com
-    eu.fps.ford.com
-    eu.fpsg.ford.com
-    evss-global-cdr.ford.com
-    evss-global-cdr-preprod.ford.com
-    ewav-asu.cf.app.ford.com
-    ewholesale-prod-ap.cf.app.ford.com
-    ewholesale-prod-eu.cf.app.ford.com
-    ewholesale-prod-no.cf.app.ford.com
-    ewholesale-prod-we.cf.app.ford.com
-    externalpartner.ford.com
-    fb-fdspcl-dlr.prod.cf.app.ford.com
-    fce-alfa-payments-outbound-qa.fcealfa.ford.com
-    fcealfa-rds-qa.fcealfa.ford.com
-    fcealfa-rds-sit.fcealfa.ford.com
-    fce-credit-risk-service-devconfig.fcealfa.ford.com
-    fce-credit-risk-service-qa.fcealfa.ford.com
-    fce-credit-risk-service-sit.fcealfa.ford.com
-    fce-edms-service-edu.fcealfa.ford.com
-    fce-edms-service-qa.fcealfa.ford.com
-    fcsfleet.ford.com
-    fenix.ford.com
-    finsimple-account-link-ui.ford.com
-    finsimple-account-link-ui-qa.ford.com
-    finsimple-financing.ford.com
-    finsimple-financing-qa.ford.com
-    finsimple-grow-ui.ford.com
-    finsimple-grow-ui-qa.ford.com
-    finsimple-own-ui.ford.com
-    finsimple-own-ui-qa.ford.com
-    fiori.fcsd-parts.ford.com
-    flagsmith-tools-labs.prod.cf.app.ford.com
-    fleetaccount.ford.com
-    fleet.ford.ca
-    fleet.ford.com
-    fleet-learning-acc-rest.adv2gcp.mobilityresearch.ford.com
-    fmail.ford.com
-    fmail.qad.ford.com
-    fma-signin-logger-prod.apps.pd01e.edc1.cf.ford.com
-    fmcc-sec-filings.ford.com
-    fmcdealerns3270-vip-chiadc01-rprxy1-19.chi.ford.com
-    fmcdealervt3270-qa-vip-ashadc01-rprxy2-19.ash.ford.com
-    focapi.cf.app.ford.com
-    fordav.ford.com
-    fordconnectdev.cv.ford.com
-    fordconnectqa.ford.com
-    forddoc.dev.ford.com
-    forddoc.ford.com
-    fordpay-components.ford.com
-    fordpay-components-uat.ford.com
-    fordviswsl.ford.com
-    fpc.fcsd-parts.ford.com
-    fpcommunity.ford.com
-    fr.applyforcredit.ford.ca
-    fravp124-vpneu1-6.ford.com
-    fravp124-vpneu1.ford.com
-    fravp125-vpneu1-6.ford.com
-    fravp125-vpneu1.ford.com
-    fravp126-vpneu1.ford.com
-    fredu.applyforcredit.ford.ca
-    fr.globalaccount.ford.ca
-    fr-m.ford.ca
-    frperf.globalaccount.ford.ca
-    fr-showroomfoc.ford.ca
-    fr-wwwmgqa.ford.ca
-    fr-wwwqa.bpfoc.ford.ca
-    geaasedu-ici.cf.app.ford.com
-    gfin-prod.cf.app.ford.com
-    gist-assets.github.ford.com
-    gist-assets.githubqa.ford.com
-    gist.github.ford.com
-    gist.githubqa.ford.com
-    gist-raw.github.ford.com
-    gist-raw.githubqa.ford.com
-    git.ford.com
-    github.ford.com
-    github-guide.ford.com
-    githubqa.ford.com
-    goodwill.ford.com
-    grid.ford.com
-    gtac-edu.cf.app.ford.com
-    gtpcm.cf.app.ford.com
-    gtpcm.ford.com
-    gtt.ford.com
     iciuina-edu-vip-chiadc01-rprxy2-19.chi.ford.com
     iciuina-qa-vip-ashadc01-rprxy2-19.ash.ford.com
     ida-cs-qa.ford.com
@@ -2380,26 +2087,13 @@ subdomains:
     hub.aml.ford.com
     hub.ford.com
     iam.ford.com
-    ici-dcoservice-ici.cf.app.ford.com
-    iciuina-edu-vip-chiadc01-rprxy2-19.chi.ford.com
-    iciuina-qa-vip-ashadc01-rprxy2-19.ash.ford.com
-    ida-cs-qa.ford.com
-    identity-management-prod.apps.pd01e.edc2.cf.ford.com
-    image.ar-mail.ford.com
-    image.wcm-mail.ford.com
     imagine.ford.com
     imcs.ford.com
     imcsprod.warley.ford.com
     imcsqa.warley.ford.com
-    img.ford.com
-    incentives.ford.com
-    incentives.lincoln.com
     incentivesqa.ford.com
     incentivesqa.lincoln.com
-    inc.ford.com
     index=305
-    india.ford.com
-    inference-api-rest.adv2gcp.mobilityresearch.ford.com
     info.ford.com
     info.lincoln.com
     infoq.ford.com
@@ -2434,8 +2128,6 @@ subdomains:
     int.webmonitor.ford.com
     inventoryfoc.ford.ca
     inventoryfoc.ford.com
-    inventory.ford.com
-    inventory.lincoln.com
     inventorymfoc.ford.com
     inventorymus.ford.com
     inventoryus.ford.com
@@ -2443,7 +2135,6 @@ subdomains:
     ita53500.b2d.ford.com
     ita57100.b2d.ford.com
     ita68500.b2d.ford.com
-    itconnect.ford.com
     ito024572.hosts.cloud.ford.com
     ito025291.hosts.cloud.ford.com
     ito025397.hosts.cloud.ford.com
@@ -2457,24 +2148,15 @@ subdomains:
     ito13256.hosts.cloud.ford.com
     ito13849.hosts.cloud.ford.com
     ito18615.hosts.cloud.ford.com
-    its-crm.fcsd-parts.ford.com
-    its-erp.fcsd-parts.ford.com
     itsms.ford.com
-    its-scm.fcsd-parts.ford.com
     ivis2.ford.com
     ivis3.ford.com
     ivisb.ford.com
     ivs.ford.com
     ivssqa.security.ford.com
-    jfrog.ford.com
-    jobs.corporate.ford.com
-    journey.cf.app.ford.com
-    journey.ford.com
     jwesvs93.jaguar.ford.com
     katiedoingprodtest.lincoln.com
     katietest110.lincoln.com
-    ks1vp124-vpncn1.ford.com
-    ks1vp125-vpncn1.ford.com
     lb3270.ford.com
     lbbak3270.ford.com
     lcs2.ford.com
@@ -2485,12 +2167,10 @@ subdomains:
     learning.ford.com
     legacy.ford.com
     legacy.qad.ford.com
-    lens.ford.com
     lincolnasa5220.lincoln.com
     lincolnbranda.ford.ca
     lincolnbrandb.ford.ca
     lincolnbrand.ford.ca
-    lincoln.com
     lincolnprotect.lincoln.com
     lincolnservicespecials.lincoln.com
     lincoln.wwwqa.akamai.dragonfly.ford.com
@@ -2498,48 +2178,18 @@ subdomains:
     livestream.lincoln.com
     locate.ford.com
     log.ford.com
-    login.centroamerica.ford.com
     login.cl-dev01.cf.ford.com
     login.cl-sandbox01.cf.ford.com
-    logindev.caribe.ci.ford.com
-    logindev.ford.ca
-    logindev.ford.com
-    logindev.ford.mx
-    logindev.ford.no
-    logindev.lincoln.com
-    loginedu.ford.ca
-    loginedu.ford.mx
-    loginedu.ford.no
-    loginedu.lincoln.com
-    login.ford.ca
-    login.ford.com
-    login.ford.mx
-    login.ford.no
-    login.lincoln.com
-    loginqa.ford.ca
-    loginqa.ford.com
-    loginqa.ford.mx
-    loginqa.ford.no
-    loginqa.lincoln.com
     login.sys.cl-dev01.cf.ford.com
     login.sys.cl-west-sandbox01.cf.ford.com
     lom.ford.com
-    loyalty-webpages-bundle-usa.ford.com
-    loyalty-webpages-bundle.uspd01.cf.ford.com
-    lpsrewardprogram.cf.app.ford.com
     ls1.ford.com
     ls2.ford.com
-    lyncdiscover.ford.com
-    lyncdiscover.saips.co.il
     lyncpadmin.ford.com
-    m1.euemail.ford.com
-    mach-e.ford.com
     ma.ford.com
     mailfw2.ford.com
     mailfw3.ford.com
     mailfw5.ford.com
-    mail.newfordtech.com
-    mail.saips.co.il
     ma.lincoln.com
     managecredential.ford.com
     mapping.ford.com
@@ -2552,40 +2202,27 @@ subdomains:
     m.bpbl.lincoln.com
     m.bpblus.lincoln.com
     m.bp.lincoln.com
-    m.caribbean.ford.com
-    m.caribbean.lincoln.com
     m.caribe.ford.com
     m.caribe.lincoln.com
     m.centroamerica.ford.com
     m.centroamerica.lincoln.com
     mcf.ford.com
-    m.cpo.lincoln.com
     m.cpoqa.lincoln.com
     mdev.ford.com
     mdev.lincoln.com
     mdmas.ford.com
     mdmfe.ford.com
     mdmop.ford.com
-    m.dominicana.ford.com
-    m.dominicana.lincoln.com
     mediabin.ford.com
     media.ford.com
-    media.github.ford.com
-    media.githubqa.ford.com
     media.library.ford.com
     media.lincoln.com
     media.nearlydouble.ford.com
     meet.ford.com
     meet.sip.ford.com
     meet.sipinternal.ford.com
-    me.ford.com
-    me.lincoln.com
     m.email.ford.no
-    merchandise.ford.com
-    merchandise.lincoln.com
     mermaid.ford.com
-    metrics.ford.ca
-    metrics.ford.com
     m.ford.ca
     m.ford.com
     m.ford.mx
@@ -2600,10 +2237,6 @@ subdomains:
     mgsearch.sp.ford.com
     mgteam.extsp.ford.com
     mgteam.sp.ford.com
-    mgwdev.ford.com
-    mgw.ford.com
-    mgwqa.ford.com
-    mgws.ford.com
     mgwww.tc2.ford.com
     mgwww.tc.ford.com
     mic.vcc.ford.com
@@ -2623,20 +2256,14 @@ subdomains:
     m.me.lincoln.com
     mobile.ford.ca
     mobile.ford.no
-    mobilegateway.ford.com
-    mobilemoney.ford.com
-    mobileservice.ford.com
     mod2.ford.com
-    modelefoc.ford.ca
     mondeo.ford.com
     mondeo.ford.no
-    mordor.ford.com
     m.origin.centroamerica.ford.com
     m.origin.ford.mx
     m.origin.india.ford.com
     m.origin.lincoln.com.cn
     m.origin.me.ford.com
-    m.origin.me.lincoln.com
     m.origin.ssa.ford.com
     motorcraft.ar.ford.com
     motorcraftarvip1-prod.ecc1.ford.com
@@ -2651,7 +2278,6 @@ subdomains:
     mqa2.ford.com
     mqa2.lincoln.com
     mqa2usapi.cv.ford.com
-    mqa.at.ford.com
     mqacntest.cv.ford.com
     mqa.ford.ca
     mqa.ford.com
@@ -2659,20 +2285,15 @@ subdomains:
     m.quickquote.ford.com
     m.quickquote.lincoln.com
     m.racing.ford.com
-    m.response.euemail.ford.com
     mrs1.ford.com
     mrs2.ford.com
     mrs3.ford.com
     mrs4.ford.com
-    m.saips.co.il
     m.secure.ford.com
     m.secure.india.ford.com
     msg.ford.com
-    msoid.saips.co.il
-    msra.ford.com
     m.ssa.ford.com
     m.ssa.lincoln.com
-    mta-1.mail.newfordtech.com
     mta.msg.ford.com
     mt.bp3a.ford.com
     mt.bp3a.lincoln.com
@@ -2682,28 +2303,21 @@ subdomains:
     mt.bp3.lincoln.com
     mt.bpfoc.ford.ca
     multimedia.ford.com
-    multimedia.mail.newfordtech.com
     m.uspac.ford.com
     m.uspac.lincoln.com
-    muswebapistub1perf.cv.ford.com
     mviper.ford.com
     m.wwwedu-dk.engine.ford.com
     m.wwwedu-es.engine.ford.com
     m.wwwedu-gr.engine.ford.com
     m.wwwedu-lu.engine.ford.com
-    mycareer.ford.com
     myfordvehicles.ford.com
     mymustang.ford.com
-    myperformance.ford.com
     myreleasesedu.ford.com
     myreleases.ford.com
     myreleasesqa.ford.com
     mysite.sp.ford.com
     mysite.spt.ford.com
-    mystory.ford.com
     myvpn.ford.com
-    na-copy-prod.apps.pd01e.edc2.cf.ford.com
-    na-copy.prod.cf.app.ford.com
     naecas01.exchange.ford.com
     naecas02.exchange.ford.com
     naecas03.exchange.ford.com
@@ -2736,10 +2350,7 @@ subdomains:
     na.fpsqa.ford.com
     namomt.ford.com
     napocs.ford.com
-    na-standalone-gateway.prod.cf.app.ford.com
-    ndes.ford.com
     netops.ford.com
-    newsie.ford.com
     ngauthor.ford.com
     ngpublisher.ford.com
     nguams.ford.com
@@ -2752,25 +2363,19 @@ subdomains:
     nvous.ford.com
     oca.ford.ca
     oca.lincoln.com
-    ocsp.ford.com
-    oct.ford.com
     oftp2.ford.com
     ogql-graph-dev.ford.com
     olss.ford.com
     one.ford.com
-    onesearch.ford.com
     onlinestore.ford.com
-    onsite.ford.com
     orgindev.support.ford.com
     orginedu.support.ford.com
     orginedu.support-lincoln.ford.com
     orginqa.support.ford.com
     origin-accessories.ford.ca
-    origin.accessories.lincoln.com
     origin-aem-social.ford.com
     origin-autoshows.ford.com
     origin-autoshows-stage.ford.com
-    origin-bp2.ford.com
     origin-bp2qa.ford.com
     origin-bpfoc.ford.ca
     origin-builddev.lincoln.com
@@ -2870,8 +2475,6 @@ subdomains:
     origin-test-owner.lincoln.com
     origin-t.inventory.ford.com
     origin-t.inventory.lincoln.com
-    origin-www.bp3.ford.com
-    origin-www.bp3.lincoln.com
     origin-www.campaignmicrosites.lincoln.com
     origin-www.clw.ford.com
     origin-wwwdev.clw.ford.com
@@ -2883,13 +2486,8 @@ subdomains:
     origin-wwwedu.t.bp3.ford.com
     origin-wwwedu.t.bp3.lincoln.com
     origin-www.fleetus.ford.com
-    origin-www.ford.com
-    origin-www.inventory.ford.com
-    origin-www.inventory.lincoln.com
     origin-www.lincoln.com
     origin.www.mondeo.ford.com
-    origin-www.mt.bp3.ford.com
-    origin-www.mt.bp3.lincoln.com
     origin-www.musicselfie.lincoln.com
     origin-wwwqa.bp3.ford.com
     origin-wwwqa.bp3.lincoln.com
@@ -2924,13 +2522,8 @@ subdomains:
     origin-wwwqa.t.inventory.lincoln.com
     origin-wwwqa.t.quickquote.ford.com
     origin-wwwqa.t.quickquote.lincoln.com
-    origin-www.quickquote.ford.com
-    origin-www.quickquote.lincoln.com
     origin-www.t.bp3.ford.com
-    origin-www.t.bp3.lincoln.com
-    ota.ford.com
     otb.ford.com
-    ovfqa.fc.ford.com
     owa2.ford.com
     owa.ford.com
     owana.ford.com
@@ -2956,13 +2549,10 @@ subdomains:
     ownerqa.lincoln.com
     ownerservicesa.ford.com
     ownerservicesb.ford.com
-    p2p.ford.com
     p4.ford.com
     p5.ford.com
     packaging.ford.com
     packagingqa.ford.com
-    pages.github.ford.com
-    pages.githubqa.ford.com
     pah002.ford.com
     pah003.ford.com
     pah004.ford.com
@@ -3353,14 +2943,10 @@ subdomains:
     pah794.ford.com
     pah795.ford.com
     panda.ford.com
-    pandap2-vip-chiadc01-rprxy1-19.chi.ford.com
     pandap.ford.com
     pandaqa.ford.com
     pandaq.ford.com
-    parking.ford.com
-    partner.ford.com
     partner.lincoln.com
-    partsdistributor.india.ford.com
     parts.ford.com
     parts.india.ford.com
     parts.me.ford.com
@@ -3369,64 +2955,20 @@ subdomains:
     pcf03v2i.edc-f01.ford.com
     pcf05v2i.edc-f01.ford.com
     pcf06v2i.edc-f01.ford.com
-    pcf10e.app.ford.com
-    pcl-restapi.adv2gcp.mobilityresearch.ford.com
     pcm.ford.com
     pdtools.ford.com
-    pem-vintopartfeature.cf.app.ford.com
-    pem-vintopartfeature.ford.com
-    pem-vintopartfeature.prod.cf.app.ford.com
-    peopleflow.ford.com
-    perf.accessories.ford.ca
-    perf.accessories.lincoln.com
-    perf.alexaremotelogin.ford.com
-    perfauth.accessories.ford.ca
-    perfauth.accessories.lincoln.com
     perf.fma-sandbox.ford.ca
     perf.fma-sandbox.ford.mx
     perf.fma-sandbox.ford.no
-    perf.fma-sandbox-lincoln.lincoln.com
     performance.ford.com
-    performanceparts.ford.com
-    perf.permissions.lincoln.com
-    permissions.ford.com
-    permissions.lincoln.com
     planovalo.ar.ford.com
-    plc-front-end.prod.cf.app.ford.com
     plc.lincoln.com
-    plc-roadtrip.prod.cf.app.ford.com
-    plc-service.prod.cf.app.ford.com
     plus.extsp.ford.com
-    pms.ford.com
-    pneus.ford.ca
-    poc.accessories.ford.ca
-    pocauth.accessories.ford.ca
     pocdauth.accessories.ford.ca
-    poc.parts.ford.com
-    policies.telematicsdev.ford.com
-    policies.telematics.ford.com
-    policies.telematicsqa.ford.com
-    portal.fcsd-parts.ford.com
-    portalna.fcsd-parts.ford.com
-    portalnaqa.fcsd-parts.ford.com
-    portalqa.fcsd-parts.ford.com
-    portalqim.fcsd-parts.ford.com
-    portalqimqa.fcsd-parts.ford.com
     powershell.ford.com
     powershell.qad.ford.com
-    ppe.ford.com
-    preprod.grid.ford.com
     prod.accessories.ford.ca
-    prod.accessories.ford.com
-    prod.accessories.lincoln.com
-    prodauth.accessories.ford.ca
-    prod.chargers.ford.com
     prodcmsweb01.ford.com
-    prod.fma-sandbox.ford.ca
-    prod.fma-sandbox.ford.mx
-    prod.fma-sandbox.ford.no
-    prod.fma-sandbox-lincoln.lincoln.com
-    prodlive.accessories.ford.ca
     prod.permissions.lincoln.com
     prodpublish.corporate.ford.com
     prodpublishmg.rrp.ford.com
@@ -3441,7 +2983,6 @@ subdomains:
     public-data.ford.com
     pubqa.wcccs.ford.com
     pubqa.webconnect.ford.com
-    puma.cf.app.ford.com
     pw.ford.com
     q1devmg.ford.com
     q1.ford.com
@@ -3461,35 +3002,21 @@ subdomains:
     qa2.owner.ford.com
     qa2.owner.lincoln.com
     qa2.support.ford.com
-    qa2.support.lincoln.com
     qa2.syncsupport.lincoln.com
     qa3.owner.ford.com
     qa4.owner.ford.com
     qa50.lincoln.com
     qa.accessories.ford.ca
-    qa.accessories.ford.com
-    qa.accessories.lincoln.com
-    qa-account-manager-classic.cf.app.ford.com
-    qa-account-manager-classic.pp.cf.app.ford.com
     qa.accountmanager.lincoln.com
     qaacsy.ford.com
     qaacsy.qad.ford.com
-    qa.alexaremotelogin.ford.com
     qa.ar.motorcraft.ford.com
-    qaauth1.accessories.ford.ca
-    qaauth2.accessories.ford.ca
-    qaauth.accessories.ford.com
-    qaauth.accessories.lincoln.com
     qa.canada.fleet.ford.com
-    qa.chargers.ford.com
     qacomm.extsp.ford.com
-    qa.communication-center.lincoln.com
     qad.ford.com
     qa.e-blesswholesale.warley.ford.com
     qaecas01.exchange.ford.com
     qaecas02.exchange.ford.com
-    qa.ecommercefma.lincoln.com
-    qa-ecommercefma-lnc.pp.cf.app.ford.com
     qa.espservices.ford.com
     qafcas01.exchange.ford.com
     qafcas02.exchange.ford.com
@@ -3499,8 +3026,6 @@ subdomains:
     qa.fma-sandbox.ford.ca
     qa.fma-sandbox.ford.mx
     qa.fma-sandbox.ford.no
-    qa.fma-sandbox-lincoln.ford.com
-    qa.fma-sandbox-lincoln.lincoln.com
     qa.ford.ca
     qa.fordcredit.ar.ford.com
     qa.fordeumedia-a.ford.com
@@ -3541,8 +3066,6 @@ subdomains:
     qa.motorcraft.ar.ford.com
     qa.mycareer.ford.com
     qanamomt.ford.com
-    qaorigin.accessories.ford.com
-    qaorigin.accessories.lincoln.com
     qa.owneradvantagerewards.ford.com
     qa.owner.ford.com
     qa.owner.lincoln.com
@@ -3552,7 +3075,6 @@ subdomains:
     qa.parts.india.ford.com
     qa-parts.me.ford.com
     qa.parts.me.ford.com
-    qa.permissions.lincoln.com
     qa.planovalo.ar.ford.com
     qaplus.extsp.ford.com
     qaproj.extsp.ford.com
@@ -3568,7 +3090,6 @@ subdomains:
     qa.syncsupport.lincoln.com
     qateam.extsp.ford.com
     qatest.gcat3.ford.com
-    qat.softwareupdates.files.ford.com
     qautil.extsp.ford.com
     qfc.ford.com
     quicklease.ford.com
@@ -3587,75 +3108,43 @@ subdomains:
     racingedua.ford.com
     racingedub.ford.com
     racingedu.ford.com
-    racing.ford.com
     racingqaa.ford.com
     racingqab.ford.com
     racingqa.ford.com
     ranger.centroamerica.ford.com
-    ranger.ford.com
     rapid.ford.com
     rapidqa.ford.com
-    ravonline.myfcsdsales.ford.com
     ravpn03.tcslab.ford.com
-    raw.ford.com
-    raw.github.ford.com
-    raw.githubqa.ford.com
-    rcc.ford.com
     rda-qualityconnection.ford.com
     rea.ford.com
-    recompenses.ford.ca
-    recompensesproprioavantages.ford.ca
-    redirect.ford.com
-    redirect.lincoln.com
     redlb.ford.com
-    reduslb-vip-ashadc01-rprxy1-19.chi.ford.com
-    registry.ford.com
     relay.ford.com
-    render.github.ford.com
-    reply.github.ford.com
-    reply.githubqa.ford.com
-    reports-qavehicleremarketing.cf.app.ford.com
     request.ford.com
     requesttestwork.ford.com
-    research.ford.com
-    reservas.ford.com
     response.euemail.ford.com
-    res.response.euemail.ford.com
     resume_from=corporateqa.ford.com
     retaila.lincoln.com
     retailb.lincoln.com
     retailer.landrover.ford.com
     retail.lincoln.com
-    reverseproxy.globalowner.ford.com
-    rewards.ford.ca
     rewards.ford.com
     rewards.lincoln.com
     rex.ford.com
-    rfaservicesqa.pp.cf.app.ford.com
     rfq.ford.com
-    rim.ford.com
-    rpa-pega-1-qa-vip-ashadc01-rprxy2-19.ash.ford.com
     rqcdb.ford.com
     rrp.ford.com
-    rtls.ford.com
     s1.ford.com
     s2.ford.com
     s2s.sync.cloud.ford.com
     s3.ford.com
     s4.ford.com
     s5.ford.com
-    sam.ford.com
     sams.ford.com
     schedule1.ford.com
     schedule2.ford.com
-    scmeuqa.fcsd-parts.ford.com
-    scm.ford.com
-    scorecard.complexity.ford.com
-    scorecard-complexity-gcp.prod.cf.app.ford.com
     sdcds.ford.com
     sdn.ford.com
     search.extsp.ford.com
-    search.ford.com
     search.sp.ford.com
     secure.asiapacific.ford.com
     secureauthe.ford.com
@@ -3678,12 +3167,10 @@ subdomains:
     secureedumg1.corporate.ford.com
     secureedumg.corporate.ford.com
     secure.engine.ford.com
-    secure.espanol.lincoln.com
     secure.ford.com
     secure.ford.no
     secure.fordvehiclesus.ford.com
     secure.india.ford.com
-    secure.lincoln.com
     secure.lincolnus.lincoln.com
     secure.me.ford.com
     secure.me.lincoln.com
@@ -3718,7 +3205,6 @@ subdomains:
     secure.wwwedu-nl.engine.ford.com
     secure.wwwedu-ru.engine.ford.com
     securidreg.ford.com
-    security-audit-qavehicleremarketing.cf.app.ford.com
     security-restrictions-qavehicleremarketing.pp.cf.app.ford.com
     sequreqa.lincolnus.lincoln.com
     serviceevent.ford.com
@@ -3744,63 +3230,32 @@ subdomains:
     servis2.ford.com
     servis2nat1.ford.com
     sfdc.ford.com
-    sg2vp124-vpnap1.ford.com
-    sg2vp125-vpnap1.ford.com
     sghaa300.nls.ford.com
-    sh8vp124-vpncn1.ford.com
-    sh8vp125-vpncn1.ford.com
-    shareholder.ford.com
     shop.ford.ca
     shop.ford.com
     shop.lincoln.com
-    showroomfoc.ford.ca
     sic0ad42.fsic.ford.com
-    siliconvalley.ford.com
     sim.ford.com
     sims.ford.com
-    sip.ford.com
     sipinternal.ford.com
-    sip.saips.co.il
     sitescope11.ford.com
     sitescope13.ford.com
     sitescope6.ford.com
     slbworker-alias.lincoln.com
     slbworker.lincoln.com
-    smartdata-viztool.adv2gcp.mobilityresearch.ford.com
-    smartdataviztool.adv2gcp.mobilityresearch.ford.com
-    smartit.ford.com
-    smetrics.ford.ca
-    smetrics.ford.com
     smtp365.ford.com
-    snowball.ford.com
     social.ford.com
     socialqa.ford.com
     socket.supervan4.ford.com
-    spaces.ford.com
     speedy.ford.com
-    sre.ford.com
     srll.ford.com
     ssa.ford.com
-    sso.caribe.ci.ford.com
-    sso.centroamerica.ci.ford.com
-    sso.ci.ford.ca
-    sso.ci.ford.com
-    sso.ci.ford.mx
-    sso.ci.ford.no
-    sso.ci.lincoln.com
-    ssodev.ci.ford.ca
     ssodev.ci.ford.mx
-    ssodev.ci.ford.no
-    ssodev.ci.lincoln.com
     ssodev.ford.ca
     ssodev.ford.com
     ssodev.ford.mx
     ssodev.lincoln.com
     ssodev.lincoln.com.cn
-    ssoedu.ci.ford.ca
-    ssoedu.ci.ford.mx
-    ssoedu.ci.ford.no
-    ssoedu.ci.lincoln.com
     ssoedu.ford.ca
     ssoedu.ford.com
     ssoedu.ford.mx
@@ -3813,10 +3268,8 @@ subdomains:
     sso.ford.ca
     sso.ford.com
     sso.ford.mx
-    sso.india.ci.ford.com
     sso.lincoln.com
     sso.lincoln.com.cn
-    sso.me.ci.ford.com
     ssopredev1.ford.com
     ssopredev1.lincoln.com
     ssopredev2.ford.com
@@ -3830,11 +3283,6 @@ subdomains:
     ssoqa2.ford.com
     ssoqa2.lincoln.com
     ssoqa2.lincoln.com.cn
-    ssoqa.ci.ford.ca
-    ssoqa.ci.ford.com
-    ssoqa.ci.ford.mx
-    ssoqa.ci.ford.no
-    ssoqa.ci.lincoln.com
     ssoqa.ford.ca
     ssoqa.ford.com
     ssoqa.ford.mx
@@ -3844,7 +3292,6 @@ subdomains:
     ssoqa.x6.ford.mx
     ssoqa.x6.lincoln.com
     ssoqa.x6.lincoln.com.cn
-    sso.ssa.ci.ford.com
     sso.x6.ford.ca
     sso.x6.ford.mx
     sso.x6.lincoln.com
@@ -3854,10 +3301,7 @@ subdomains:
     stage2k3.mycareer.ford.com
     stage2k3.performanceparts.ford.com
     stage-aem-social.ford.com
-    stage.communication-center.lincoln.com
-    stage.developer.ford.com
     stage.esp.ford.com
-    stage.permissions.lincoln.com
     staging.accessoires.ford.ca
     staging.accessories.ford.ca
     staging.accessories.lincoln.com
@@ -3868,7 +3312,6 @@ subdomains:
     staging.media.lincoln.com
     stamps-esp.ford.com
     staponline.ford.com
-    stem.ford.com
     stg.globalaccount.ford.ca
     store.ford.com
     superg.ford.com
@@ -3877,19 +3320,13 @@ subdomains:
     supplierinfo.ford.com
     supplier.wcccs.ford.com
     supplier.webconnect.ford.com
-    support.ford.com
-    support.lincoln.com
-    sustainability.ford.com
     svs.ford.com
     svs.fsao.ford.com
-    svt.ford.com
     sya1.ford.com
     syb1.ford.com
     syc1.ford.com
     syd1.ford.com
     syncdevicecompatibility.ford.com
-    syncsupport.ford.com
-    syncsupport.lincoln.com
     sys.cl-dev01.cf.ford.com
     sys.cl-sandbox01.cf.ford.com
     sys.cl-west-sandbox01.cf.ford.com
@@ -3910,24 +3347,18 @@ subdomains:
     teamcenter2pdcloc1.ford.com
     teamcenterfoa1pe1.ford.com
     team.extsp.ford.com
-    teamrocket.ford.com
     team.sp.ford.com
     telematics.ford.ca
-    telematics.ford.com
     t.email.ford.no
     test.accessories.ford.ca
     test.accessories.ford.com
-    test-corporate.ford.com
-    testdrive.lincoln.com
     testext.ford.com
     test.ffsupload.ford.com
     testravonline.myfcsdsales.ford.com
     testvpn.ford.com
-    tires.ford.ca
     tires.owner.ford.com
     tires.owner.lincoln.com
     tn3270.ford.com
-    toolbox.ford.com
     tooling.ford.com
     touch.ford.com
     touch.ford.mx
@@ -3940,36 +3371,24 @@ subdomains:
     touch.secure.india.ford.com
     t.quickquote.lincoln.com
     trackey.ford.com
-    tradein.ford.com
-    tradein.ford.no
-    tradein.lincoln.com
     traffic.ford.com
     traffic.lincoln.com
     trafficq.ford.com
     trafficq.lincoln.com
-    tririga-dev2-vip-ashadc01-rprxy2-19.ash.ford.com
     tsodss1cop10.ford.com
     tsodss1cop2.ford.com
     tsodss1cop3.ford.com
     tsodss1cop4.ford.com
     tvr.ford.com
-    twos.ford.com
     uaa.cl-dev01.cf.ford.com
     uaa.cl-sandbox01.cf.ford.com
     uaa.sys.cl-dev01.cf.ford.com
     uaa.sys.cl-west-sandbox01.cf.ford.com
     uat.globalaccount.ford.ca
     uat.sdn.ford.com
-    uemm.dynatrace.ford.com
-    uploads.github.ford.com
     urs.ford.com
-    uvissuites-arsd-service.vrs.ford.com
-    vaccine.ford.com
     vast.ford.com
     vccs.vcc.ford.com
-    vdcc2.ford.com
-    vdcc-api-launchcard.cf.app.ford.com
-    vdcc-api-quality.cf.app.ford.com
     vdscentral.ford.com
     vdses.ford.com
     vdsin.ford.com
@@ -3977,16 +3396,8 @@ subdomains:
     vdsrprtg.ford.com
     vdstopl.ford.com
     ve.ford.com
-    vehgridsystem-ici.cf.app.ford.com
-    vehgridsystem.ici.ford.com
     v.ford.com
-    vf-ui.adv2gcp.mobilityresearch.ford.com
-    vibesintegrationedu-ici.cf.app.ford.com
-    video.ford.com
-    videosat.ford.com
     vignale.ford.no
-    visitorservice-edu.cf.app.ford.com
-    visitorservice-edu.pp.cf.app.ford.com
     vista.ford.com
     vizflow.ford.com
     v.lincoln.com
@@ -3997,50 +3408,23 @@ subdomains:
     vms.ford.com
     voarg.ford.com
     volunteer.ford.com
-    vows-bulk-call-off-status-ui-prod-dlr.prod.cf.app.ford.com
-    vows-catalog-ui-prod-dealerconnection-com.cf.app.ford.com
-    vows-config-bulk-ui-prod-dealerconnection-com.cf.app.ford.com
-    vows-config-bulk-ui-prod-dlr.prod.cf.app.ford.com
-    vows-config-ui-prod-dealerconnection-com.cf.app.ford.com
-    vows-contract-transfer-prod.cf.app.ford.com
-    vows-dealer-status-reporting-ui-prod-dlr.prod.cf.app.ford.com
-    vows-intelligent-finder-ui-prod-dlr.prod.cf.app.ford.com
-    vows-order-changes-ui-prod-dealerconnection-com.cf.app.ford.com
-    vows-order-changes-ui-prod-dlr.prod.cf.app.ford.com
-    vows-single-status-trans-hist-ui-prod-dlr.prod.cf.app.ford.com
-    vows-status-analysis-detail-ui-prod-dlr.prod.cf.app.ford.com
     vpnap1.ford.com
-    vpnap2.ford.com
     vpnap3.ford.com
     vpnap4.ford.com
     vpnapford.com
-    vpnau2.ford.com
-    vpncn1.ford.com
-    vpncn2.ford.com
     vpncn3.ford.com
-    vpncn4.ford.com
     vpncnford.com
     vpneu1.ford.com
-    vpneu3.ford.com
     vpneuford.com
-    vpnin1.ford.com
     vpnin2.ford.com
     vpnna1.ford.com
     vpnna1qa.ford.com
     vpnna1qa.tcslab.ford.com
-    vpnna2.ford.com
-    vpnna3.ford.com
-    vpnna4.ford.com
     vpnnaford.com
-    vpnqa1.ford.com
-    vpn.saips.co.il
     vpntcslab.ford.com
     vrhub.ford.com
     vsem.ford.com
     vsemweb.ford.com
-    vs-fdspcl-dealerconnection-com.cf.app.ford.com
-    vs.ford.com
-    vsm-static-files-prod-dealerconnection-com.cf.app.ford.com
     w2k31.axz-canada.ford.com
     w2k31.canada.fleet.ford.com
     w2k31.esp.ford.com
@@ -4097,14 +3481,10 @@ subdomains:
     warrantyclaimslp.ford.com
     warranty.ford.com
     warrantyprocessing.ford.com
-    warriorsinpink.ford.com
     wayforward.ford.com
     wcd011.ford.com
     wcd012.ford.com
     web2.anaqua.ford.com
-    web2.gemstest.ford.com
-    web.agenda.ford.com
-    web.aim.ford.com
     web.anaqua.ford.com
     webapps.vdi2.ford.com
     web.avbom-tce2.ford.com
@@ -4114,18 +3494,12 @@ subdomains:
     web.bpm2.ford.com
     web.c3p.ford.com
     web.ccas.ford.com
-    web.cdswebst.ford.com
-    web.cmmseddl.ford.com
-    web.cmmsobso.ford.com
     web.competencycenter.ford.com
     web.config.ford.com
-    web.conford.ford.com
     web.corpmfrm.ford.com
     web.corporateidentity.ford.com
     web.counsel.ford.com
-    web.cqc.ford.com
     web.ctx.ford.com
-    web.dealis.ford.com
     webdefects.ford.com
     webdev2.ford.com
     webdev.aim.ford.com
@@ -4183,37 +3557,21 @@ subdomains:
     webdev.vis.ford.com
     webdev.xsbeurope.ford.com
     web.dvp.ford.com
-    web.e2ks.ford.com
-    web.ecommercefma.ford.com
-    web.ecommercefma.lincoln.com
-    web-ecommercefma-lnc.prod.cf.app.ford.com
-    web.edb.ford.com
     web.edihub.ford.com
     webedu.config.ford.com
     webedu.dvp.ford.com
     webedu.efdvs.ford.com
-    webedu.erma.ford.com
     webedu.gcamp.ford.com
-    webedu-isis.cf.app.ford.com
-    webedu.isis.ford.com
-    webedu-isis.pp.cf.app.ford.com
     webedu.katiedoingprodtest.lincoln.com
     webedu.katietest110.lincoln.com
     webedumg2.erma.ford.com
     webedumg2.gcamp.ford.com
     webedumg2.isis.ford.com
     webedumg.gcamp.ford.com
-    webedu-stars-dealerconnection-com.cf.app.ford.com
-    webedu-stars-dealerconnection-com.pp.cf.app.ford.com
     webedu.xsbeurope.ford.com
     web.efdvs.ford.com
     web.emm2.ford.com
-    web.emmg.ford.com
-    web.epay.ford.com
-    web.erma.ford.com
-    web.esmart2.ford.com
     webexsso.ford.com
-    web.favservices.ford.com
     web.fcsd.ford.com
     web.fcs.ford.com
     web.fdilearning.ford.com
@@ -4222,33 +3580,20 @@ subdomains:
     web.ffsupload.ford.com
     web.fleet.ford.com
     webfocus7.ford.com
-    webfocus8-vip-chiadc01-rprxy1-19.chi.ford.com
     webfocus.ford.com
     web.fpp.ford.com
     web.fsavinlists.ford.com
     web.fsli.ford.com
-    web.fsp.ford.com
     web.fvpwebservices.ford.com
     web.fvpwebsesrvices.ford.com
-    web.gcamp.ford.com
     web.gcat2.ford.com
-    web.geos.ford.com
-    web.gpae.ford.com
-    web.gpirsddl.ford.com
-    web.gsdb2.ford.com
-    web.gsec.ford.com
     web.gslts.ford.com
     web.hronline.ford.com
     web.imcs.ford.com
-    web.isis.ford.com
-    web.iuvp.ford.com
     web.katiedoingprodtest.lincoln.com
     web.katietest110.lincoln.com
     web.lean.ford.com
-    webmail.saips.co.il
-    web.mcpv.ford.com
     web.media.ford.com
-    web.meets.ford.com
     webmg2.aim.ford.com
     webmg2.ccas.ford.com
     webmg2.cmmseddl.ford.com
@@ -4311,19 +3656,9 @@ subdomains:
     web.mp16.ford.com
     web.mpl7.ford.com
     web.mplb2b.ford.com
-    web.mplsas.ford.com
-    web-mpnr.cf.app.ford.com
-    web.mpnr.ford.com
-    web.pcm.ford.com
-    web.pkginfo.ford.com
     web.pos.ford.com
-    web.ppap.ford.com
     web.pslsupp.ford.com
-    web.purinfo.ford.com
-    webqa2.auros.ford.com
-    webqa2-auros.pp.cf.app.ford.com
     webqa-admin-juntos.cf.app.ford.com
-    webqa.aim.ford.com
     webqa.anaqua.ford.com
     webqa.avbom-tce2.ford.com
     webqa.avbom-tce.ford.com
@@ -4334,57 +3669,32 @@ subdomains:
     webqa.c3p-swift.ford.com
     webqa.capacity.ford.com
     webqa.ccas.ford.com
-    webqa.cdswebst.ford.com
     webqa.cmmseddl.ford.com
-    webqa.cmmsobso.ford.com
     webqa.competencycenter.ford.com
     webqa.config.ford.com
-    webqa.conford.ford.com
     webqa.corpmfrm.ford.com
     webqa.corporateidentity.ford.com
     webqa.cqc.ford.com
     webqa.ctx.ford.com
-    webqa.dealis.ford.com
     webqa.dvp.ford.com
-    webqa.e2ks.ford.com
-    webqa-ecommercefma.cf.app.ford.com
-    webqa.ecommercefma.ford.com
-    webqa-ecommercefma.pp.cf.app.ford.com
     webqa.edihub.ford.com
     webqa.efdvs.ford.com
     webqa.emm2.ford.com
     webqa.emmg.ford.com
-    webqa.epay.ford.com
-    webqa.erma.ford.com
-    webqa-erma.pp.cf.app.ford.com
     webqa.esmart2.ford.com
     webqa.fdilearning.ford.com
     webqa.fexco.ford.com
     webqa.fleet.ford.com
     webqa.fpp.ford.com
-    webqa-fsavinlists-dealerconnection-com.cf.app.ford.com
-    webqa-fsavinlists-dealerconnection-com.pp.cf.app.ford.com
     webqa.fsavinlists.ford.com
     webqa.fsli.ford.com
-    webqa.fsp.ford.com
     webqa.fvpwebservices.ford.com
-    webqa-fwsmain.cf.app.ford.com
-    webqa.fwsmain.ford.com
-    webqa-fwsmain.pp.cf.app.ford.com
-    webqa.gcamp.ford.com
     webqa-global8d.app.ford.com
-    webqa.gpae.ford.com
-    webqa.gpirsddl.ford.com
-    webqa.gsdb2.ford.com
     webqa.gsec.ford.com
     webqa.hronline.ford.com
-    webqa.isis.ford.com
     webqa.iuvp.ford.com
-    webqa-juntos.cf.app.ford.com
-    webqa-juntos.pp.cf.app.ford.com
     webqa.katiedoingprodtest.lincoln.com
     webqa.katietest110.lincoln.com
-    webqa.mcpv.ford.com
     webqa.meets.ford.com
     webqamg2.aim.ford.com
     webqamg2.capacity.ford.com
@@ -4433,11 +3743,7 @@ subdomains:
     webqa.mplb2b.ford.com
     webqa.mplsas.ford.com
     webqa.mpnr.ford.com
-    webqa-na-fleet.cf.app.ford.com
-    webqa.na.fleet.ford.com
-    webqa-na-fleet.pp.cf.app.ford.com
     webqa.pcm.ford.com
-    webqa.pkginfo.ford.com
     webqa.pos.ford.com
     webqa.pslsupp.ford.com
     webqa.purinfo.ford.com
@@ -4445,45 +3751,25 @@ subdomains:
     webqa.qpr.ford.com
     webqa.quality.ford.com
     webqa.repo.ford.com
-    webqa.securitymap.ford.com
-    webqa-securitymap.pp.cf.app.ford.com
-    webqa.sfq.ford.com
     webqa.spbom.ford.com
     webqa.speedy.ford.com
     webqa.speedy-swift.ford.com
-    webqa.stamps-j2.ford.com
-    webqa.supplierdirectory.ford.com
-    webqa.swr.ford.com
     webqa.uvis.ford.com
     webqa.vee.ford.com
     webqa.vis.ford.com
-    webqa.wap.ford.com
     webqa.wcccs.ford.com
-    webqa.xnet.ford.com
     webqa.xsbeurope.ford.com
     web.qpr-delta.ford.com
-    web.qpr.ford.com
     web.quality.ford.com
     web.rea.ford.com
-    web.repo.ford.com
-    web.securitymap.ford.com
-    web.sfq.ford.com
     web.spbom.ford.com
     web.speedy.ford.com
     web.spfu.ford.com
-    web.srea.ford.com
     web.stamps-esp.ford.com
-    web.stamps-j2.ford.com
-    web.supplierdirectory.ford.com
-    web.swr.ford.com
-    web.test.ford.com
-    webtest.ford.com
     webuat.katiedoingprodtest.lincoln.com
     webuat.katietest110.lincoln.com
-    web.uvis.ford.com
     web.vee.ford.com
     webview.ford.com
-    web.vis.ford.com
     web.volunteer.ford.com
     webvpn1.partner.ford.com
     webvpn213.ford.com
@@ -4496,9 +3782,7 @@ subdomains:
     webvpn.partner.ford.com
     webvpnpartner.ford.com
     webvpnqa.ford.com
-    web.wap.ford.com
     web.wcccs.ford.com
-    web.xnet.ford.com
     web.xsbeurope.ford.com
     w.fleet.ford.ca
     w.ford.com
@@ -4518,11 +3802,7 @@ subdomains:
     wlrr.ford.com
     w.newfordtech.com
     workingcondition.ford.com
-    workplace.ford.com
-    workspace.ford.com
-    worktech-data-service.cf.app.ford.com
     world.ford.com
-    wraps.ford.com
     wsi.ford.com
     wslb2be.ford.com
     wslb2bf.ford.com
@@ -4536,7 +3816,6 @@ subdomains:
     www.2830s.lincoln.com
     www2.fcs.ford.com
     www2.ford.ca
-    www2.ford.com
     www2.owncalb.lincoln.com
     www2.ownlb.lincoln.com
     www.360.ford.com
@@ -4546,85 +3825,51 @@ subdomains:
     www.aal.ford.com
     www.abrighterfuture.ford.com
     www.accdocs.ford.com
-    www.access.ford.com
     www.accessoires.ford.ca
     www.accessoriesazok.lincoln.com
     www.accessories.ford.ca
-    www.accessories.ford.com
     www.accessories.lincoln.com
-    www-accessorizemyride.cf.app.ford.com
-    www.accessorizemyride.ford.com
     www.accountdev.ford.com
     www.accountedu.ford.com
-    www.account.ford.com
     www.accountingportal.ford.com
-    www.account.lincoln.com
     www.accountmanager.lincoln.com
     www.accountqa.ford.com
     www.accountx.ford.com
     www.achdocman-divested.netlink.ford.com
-    www.acm.ford.com
     www.action.ford.com
-    www.addonprovider.ford.com
     www.admin-gam.ford.com
-    www-admin-juntos.cf.app.ford.com
     www.admintool.ford.com
-    www-admin-vaccination.cf.app.ford.com
-    www-admin-vaccination.prod.cf.app.ford.com
-    www.advocacy.ford.com
     www.aerovision-sandbox.ford.com
     www.afr.ford.com
     www.afrl.ford.com
-    www.agenda.ford.com
     www.agreement.ford.com
     wwwa.inventory.ford.com
     www.americasteam.ford.com
     www.americasteamsite.ford.com
     www.analytics.ford.com
-    www.anfexi.ford.com
-    www.annualreport.ford.com
     www.apg.ford.com
     www.aplan.ford.com
     www.app-dev.ford.com
     www.applyforcredit.ford.ca
     www.apps.ford.com
-    www.app.wholesale.fmccdealeradvisor.ford.com
-    www-app-wholesale-fmccdealeradvisor.prod.cf.app.ford.com
-    www.apqp.ford.com
     www.aps.ford.com
     wwwa.quickquote.ford.com
-    www.ar.ford.com
-    www.armr.ford.com
-    www.art.ford.com
     www.asiapacific.ford.com
     www.at.ford.com
     www.atfordreg.ford.com
     www.atlas.ford.com
     www.aub2b1.ford.com
-    www.authagent.ford.com
-    www.authagent.lincoln.com
-    wwwauth.authagent.lincoln.com
-    www.autoshows.ford.com
     www.axe.ford.com
     www.axp.ford.com
     www.axv.ford.com
     www.axz-canada.ford.com
-    www.axz.ford.com
-    www.axz.lincoln.com
     www.azxe.ford.com
     www.azx.ford.com
     www.b2c.webmonitor.ford.com
     www.backlog.ford.com
     www.bcfap.ford.com
     wwwb.inventory.ford.com
-    www.blog.ford.ca
-    www.blogue.ford.ca
-    www-bluecrew-service.cf.app.ford.com
     www.blueovalintelligence.ford.com
-    www-bluepages.cf.app.ford.com
-    www.bluepages.ford.com
-    www-bluepages.prod.cf.app.ford.com
-    www.blueprint.ford.com
     www.bpblusa.lincoln.com
     www.bpblusb.lincoln.com
     www.bpblus.lincoln.com
@@ -4632,7 +3877,6 @@ subdomains:
     www.bpfocb.ford.com
     www.bpfoc.ford.ca
     www.bpfoc.ford.com
-    www.bpm.ford.com
     www.bpmtfoca.ford.com
     www.bpmtfocb.ford.com
     www.bpmtfoc.ford.com
@@ -4670,9 +3914,6 @@ subdomains:
     www.branduslb.lincoln.com
     www.brandus.lincoln.com
     www.branduspreview.lincoln.com
-    www.buyerconnectioncanada.ford.com
-    www-ca-cloc-application.cf.app.ford.com
-    www-ca-cloc-application.prod.cf.app.ford.com
     www.cafe.ford.com
     www.campaigna.lincoln.com
     www.campaignb.lincoln.com
@@ -4680,35 +3921,16 @@ subdomains:
     www.campaignlb.lincoln.com
     www.campaign.lincoln.com
     www-cam-qa-external.cf.app.ford.com
-    www.canada.fleet.ford.com
     www.capacityplanning2.ford.com
-    www.capacityplanning.ford.com
-    www.careers.ford.com
-    www.caribe.ford.com
     www.carsadmin.ford.com
     www.cashforclunkers.ford.com
-    www.cbp.ford.com
-    www-ccp-command.cf.app.ford.com
-    www.ccp.command.ford.com
     www.cdscupid.ford.com
     www.cec.ford.com
-    www.centraldevendas.ford.com
-    www.centroamerica.ford.com
-    www.cerberus.ford.com
     www.cfa.ford.com
     www.changecontrol.ford.com
-    www.changepassword.ford.com
-    www.chatbot.ford.com
-    www.checkout.ford.com
-    www.checkout.lincoln.com
     www.chinese.ford.ca
     www.city.ford.ca
     www.cld.ford.com
-    www.clipsheet.ford.com
-    www-cloc-application.cf.app.ford.com
-    www.cloc-application.ford.ca
-    www.cloc-application.ford.com
-    www.cloc-application-qa.ford.com
     www.clwa.ford.com
     www.clwa.lincoln.com
     www.clwb.ford.com
@@ -4718,42 +3940,20 @@ subdomains:
     www.cmms.ford.com
     www.cns.ford.com
     www.collaborate.ford.com
-    www.collision.ford.com
-    www-commercial-insights-services-qa.cf.app.ford.com
-    www.commercial-insights-services-qa.ford.com
-    www-commercial-insights-services-qa.pp.cf.app.ford.com
     www.commercialsolutions.ford.ca
     www.commercialsolutions.ford.com
     www.commoditybuy.ford.com
-    www-commscalendar-api.cf.app.ford.com
-    www.commscalendar-api.ford.com
-    www.commtruck.ford.com
     wwwcommtruck.ford.com
-    www.community.ford.com
     www.companyvehicles.ford.com
     www.compare.ford.ca
     www.competencycenter.ford.com
-    www.concesionarios.ford.com
-    www.config.ford.no
     www.configurador.ford.com
-    www.connects.ford.com
     www.conseillers.ford.ca
     www.containment.ford.com
-    www-contatoproativo.cf.app.ford.com
-    www.contrack.ford.com
-    www.corporate.ford.com
-    www.costapp.ford.com
-    www.cotizacion.ford.com
     www.cotusa.ford.com
     www.cotusb.ford.com
     www.cotus.ford.com
     www.counsel.ford.com
-    www.covid19survey.ford.com
-    www.covidtest.ford.com
-    www-cpmds.cf.app.ford.com
-    www.cpmds.ford.com
-    www.cps.ford.com
-    www.credit-am-eu.ford.com
     www.creditbrand61a.ford.ca
     www.creditbrand61author.ford.ca
     www.creditbrand61b.ford.ca
@@ -4761,44 +3961,25 @@ subdomains:
     www.creditbranda.ford.ca
     www.creditbrandb.ford.ca
     www.creditbrand.ford.ca
-    www.credit.ford.ca
-    www.credit.ford.com
-    www.credit.lincoln.com
     www.credito.ford.com
-    www.credito.lincoln.com
-    www.cri.ford.com
     www.crm.ford.com
-    www-cs-cz-globalowner.cf.app.ford.com
-    www-csgbe.cf.app.ford.com
-    www.csgbe.ford.com
     www.csps.ford.com
-    www.csva.ford.com
     www.ctmdb2.ford.com
     www.ctx.ford.com
     www.customs.ford.com
-    www.customsisf.ford.com
-    www.cv.ford.com
     www.cxservices.ford.ca
     www.cxservices.ford.com
-    www.dad.ford.com
-    www-da-dk-globalowner.cf.app.ford.com
-    www.dataportal.ford.com
-    www.dataservices.ford.com
     www.dbp.ford.com
-    www.dcc.ford.com
     www.dd.ford.com
     www.ddl.ford.com
     www.ddltest.ford.com
-    www.dealer.india.ford.com
     www.dealer.wcccs.ford.com
     www.dealer.webconnect.ford.com
     www.dearborn2.ford.com
     www.dearborn4.ford.com
     www.dearborn.ford.com
     www.decisionmgr.ext.ford.com
-    www.decisionmgr.ford.com
     www.designsystem.ford.com
-    wwwdev2.akamai.brandaplb.ford.com
     wwwdev2.brandcalb.lincoln.com
     wwwdev2.branduslb.lincoln.com
     wwwdev2.fr.brandcalb.lincoln.com
@@ -4816,9 +3997,6 @@ subdomains:
     wwwdev2.ownlb.lincoln.com
     wwwdev2.shopcalb.lincoln.com
     wwwdev2.shopuslb.lincoln.com
-    wwwdev2-tririga.app.ford.com
-    wwwdev3.akamai.brandaplb.ford.com
-    wwwdev3.brandcalb.lincoln.com
     wwwdev3.branduslb.lincoln.com
     wwwdev3.fr.brandcalb.lincoln.com
     wwwdev3.shopcalb.lincoln.com
@@ -4826,7 +4004,6 @@ subdomains:
     wwwdev.accdocs.ford.com
     wwwdev.accessories.ford.com
     wwwdev.accessories.lincoln.com
-    wwwdev.account.lincoln.com
     wwwdev.accountmanager.lincoln.com
     wwwdev.admin-gam.ford.com
     wwwdev.admintool.ford.com
@@ -4839,7 +4016,6 @@ subdomains:
     wwwdeva.quickquote.ford.com
     wwwdev.atfordreg.ford.com
     wwwdev.authagent.lincoln.com
-    wwwdev.axz.ford.com
     wwwdev.bcfap.ford.com
     wwwdevb.ford.com
     wwwdevb.inventory.ford.com
@@ -4948,14 +4124,12 @@ subdomains:
     wwwdev.ekbbooks.ford.com
     wwwdev.elearning.lincoln.com
     wwwdev.elibrary.ford.com
-    www.developer.ford.com
     wwwdev.enbuycalb.lincoln.com
     wwwdev.enbuyuslb.lincoln.com
     wwwdev.enginev2.ford.com
     wwwdev.espars.ford.com
     wwwdev.etis.ford.com
     wwwdev.fbms.ford.com
-    wwwdev.fcelb.ford.com
     wwwdev.fcsd-parts-na.ford.com
     wwwdev.fecs.ford.com
     wwwdev.fleet.ford.ca
@@ -4993,7 +4167,6 @@ subdomains:
     wwwdev.globalaccount.ford.ca
     wwwdev.globalaccount.lincoln.com
     wwwdev.globalownerlb.lincoln.com
-    wwwdev.globaluptime.ford.com
     wwwdev.goasis.ford.com
     wwwdev.gppm.ford.com
     wwwdev.hdds2.ford.com
@@ -5035,7 +4208,6 @@ subdomains:
     wwwdev.lincolnbranda.ford.ca
     wwwdev.lincolnbrand.ford.ca
     wwwdev.lincoln.com
-    wwwdev.lincoln.com.cn
     wwwdev.lincolnusalta.lincoln.com
     wwwdev.lincolnusaltb.lincoln.com
     wwwdev.lincolnusalt.lincoln.com
@@ -5045,7 +4217,6 @@ subdomains:
     wwwdev.mediab.lincoln.com
     wwwdev.medialb.lincoln.com
     wwwdev-medialb-lnc.app.lincoln.com
-    wwwdev.memberportal.ford.com
     wwwdevmg1.gci.ford.com
     wwwdevmg1.rrp.ford.com
     wwwdevmg1.sim.ford.com
@@ -5184,7 +4355,6 @@ subdomains:
     wwwdev.mt.bpmtus.lincoln.com
     wwwdev.mviper.ford.com
     wwwdev.myfordvehicles.ford.com
-    wwwdev.myplan.ford.com
     wwwdev.myreleases.ford.com
     wwwdev.ngauthor.ford.com
     wwwdev.ngauthor.lincoln.com
@@ -5233,7 +4403,6 @@ subdomains:
     wwwdev.nvo.lincoln.com
     wwwdev.nvousa.ford.com
     wwwdev.nvousb.ford.com
-    wwwdev.nvous.ford.com
     wwwdev.oca.ford.ca
     wwwdev.oca.lincoln.com
     wwwdev.owncalb.lincoln.com
@@ -5337,7 +4506,6 @@ subdomains:
     wwwdev.volvocarstechinfo.ford.com
     wwwdev.vsem.ford.com
     wwwdev.vsemweb.ford.com
-    wwwdev.warrantyauthoring.ford.com
     wwwdev.warrantybre.ford.com
     wwwdev.warrantyclaimslp.ford.com
     wwwdev.warranty.ford.com
@@ -5351,27 +4519,18 @@ subdomains:
     wwwdev.wsl-federation.ford.com
     wwwdev.wss.ford.com
     wwwdev.xsbeurope.ford.com
-    www.d.ford.com
-    www.dfp.ford.com
     www.dfyservicesa.ford.com
-    www.dfyservices.ford.com
     www.diagnostics.ford.com
     www.digitalbuck.ford.com
-    www.digitalservices.ford.com
-    www.digitalworker.ford.com
     www.docmgmt.fc.ford.com
     www.dorf.ford.com
     www.download-gam.ford.com
-    www.dp.ford.com
     www.dplan.ford.com
-    www.dps.ford.com
     www.dragonfly.ford.com
     wwwdr.dragonfly.ford.com
     wwwdr.enginev2.ford.com
-    www.dreservices.lincoln.com
     www.dr.ford.com
     wwwdr.india.ford.com
-    www.drivingford.india.ford.com
     wwwdrmg.dragonfly.ford.com
     wwwdrmg-engine.fmc1.ford.com
     wwwdrmg.secure.dragonfly.ford.com
@@ -5386,11 +4545,7 @@ subdomains:
     wwwdr.secure.uspac.ford.com
     wwwdr.teamcenter2pdcloc1.ford.com
     www.dsat.ford.com
-    www.dsb2.ford.com
-    www.dsps.ford.com
     www.dts.ford.com
-    www.dyf.ford.ca
-    www.dyl.lincoln.com
     www.eassets.ford.com
     www.eassets-perl.ford.com
     www.ebcm.ford.com
@@ -5404,35 +4559,17 @@ subdomains:
     www.eccoapp.ford.com
     www.eccoauth.ford.com
     www.eccoetd.ford.com
-    www.ecco-external.ford.com
     www.ecco.ford.com
-    www.ecomm.ford.com
-    www.ecpars.ford.com
     www.ecrm.ford.com
-    www.ects.ford.com
     www.ediscovery2.ford.com
     www.ediscovery.ford.com
-    www.edms.ford.com
     www.edrwas.ford.com
     www.edrwebservices.ford.com
-    wwwedu2-nvolincolnca.pp.cf.app.ford.com
-    wwwedu2.nvouslincoln.ford.com
     wwwedu.admin-gam.ford.com
     wwwedua.inventory.ford.com
-    wwwedu-api-whs-gateway.cf.app.ford.com
-    wwwedu.api.whs.gateway.ford.com
-    wwwedu-app-authorization-fmccdealeradvisor.cf.app.ford.com
-    wwwedu.app.authorization.fmccdealeradvisor.ford.com
-    wwwedu-app-authorization-fmccdealeradvisor.pp.cf.app.ford.com
-    wwwedu.applyforcredit.ford.ca
     wwwedu.apqp.ford.com
     wwwedua.quickquote.ford.com
-    wwwedu.authagent.lincoln.com
-    wwwedu-authagent-lincoln-com.pp.cf.app.ford.com
     wwwedub.inventory.ford.com
-    wwwedu-blesswholesale.cf.app.ford.com
-    wwwedu.blesswholesale.ford.com
-    wwwedu-blesswholesale.pp.cf.app.ford.com
     wwwedu.bp3a.ford.com
     wwwedu.bp3a.lincoln.com
     wwwedu.bp3.ford.com
@@ -5465,18 +4602,11 @@ subdomains:
     wwwedu.dreservices.lincoln.com
     wwwedu.dr.ford.com
     wwwedu.drpmetric.ford.com
-    wwwedu.dsps.ford.com
-    wwwedu-eblesscapslnd-dlr.pp.cf.app.ford.com
     wwwedu.ei.ford.com
     wwwedu.elearning.lincoln.com
     wwwedu.engine.ford.com
     wwwedu.enginev2.ford.com
-    wwwedu-fce-sales.pp.cf.app.ford.com
-    wwwedu.fleetlogin.ford.com
     wwwedu.fleetusa.ford.com
-    wwwedu-fmccdealeradvisor.cf.app.ford.com
-    wwwedu.fmccdealeradvisor.ford.com
-    wwwedu-fmccdealeradvisor.pp.cf.app.ford.com
     wwwedu.fmms.ford.com
     wwwedu.fordbrukt.ford.no
     wwwedu.fordvehiclesfoca.ford.com
@@ -5487,17 +4617,9 @@ subdomains:
     wwwedu.fordvehiclesus.ford.com
     wwwedu.fordworksolutions.ford.com
     wwwedu.gam.ford.com
-    wwwedu-gdbp-dealerconnection-com.cf.app.ford.com
-    wwwedu-gdbp-dealerconnection-com.pp.cf.app.ford.com
     wwwedu.gforce.ford.com
     wwwedu.globalaccount.ford.ca
-    wwwedu-gpas-file-upload.cf.app.ford.com
-    wwwedu-gpas-file-upload.pp.cf.app.ford.com
-    wwwedu.gpas.ford.com
-    wwwedu-gpas.pp.cf.app.ford.com
     wwwedu.help.lincoln.com
-    wwwedu-hooyu-rms.pp.cf.app.ford.com
-    wwwedu-iciuina.app.ford.com
     wwwedu.inventorya.lincoln.com
     wwwedu.inventoryb.lincoln.com
     wwwedu.inventoryfoca.ford.com
@@ -5513,14 +4635,10 @@ subdomains:
     wwwedu.inventoryus.ford.com
     wwwedu.inventoryus.lincoln.com
     wwwedu.ip.ford.com
-    wwwedu.ivs.ford.com
     wwwedu.katiedoingprodtest.lincoln.com
     wwwedu.katietest110.lincoln.com
     wwwedu.kbbservices.lincoln.com
     wwwedu.lincoln.com
-    wwwedu-mach-e.cf.app.ford.com
-    wwwedu-mach-e.pp.cf.app.ford.com
-    wwwedu.managecredential.ford.com
     wwwedumg1.rrp.ford.com
     wwwedumg1.warrantyclaims.ford.com
     wwwedumg1.warrantyprocessing.ford.com
@@ -5580,30 +4698,18 @@ subdomains:
     wwwedu.mt.bp3.lincoln.com
     wwwedu.myfordvehicles.ford.com
     wwwedu.myreleases.ford.com
-    wwwedu.newfordtech.com
     wwwedu.ngauthor.ford.com
     wwwedu.ngauthor.lincoln.com
     wwwedu.ngpcms01.ford.com
     wwwedu.ngpublisher.ford.com
     wwwedu.ngpublisher.lincoln.com
     wwwedu.nvo.ford.ca
-    wwwedu.nvofordca.ford.com
-    wwwedu.nvolincolnca.ford.com
-    wwwedu-nvolincolnca.pp.cf.app.ford.com
     wwwedu.nvo.lincoln.com
-    wwwedu.nvolincoln.ford.com
-    wwwedu-nvolincoln.pp.cf.app.ford.com
     wwwedu.nvousa.ford.com
     wwwedu.nvousb.ford.com
     wwwedu.nvous.ford.com
-    wwwedu.oca.ford.ca
-    wwwedu-oca-ford-ca.pp.cf.app.ford.com
-    wwwedu.oca.lincoln.com
     wwwedu.partner.lincoln.com
-    wwwedu.paymentcalculator.ford.ca
     wwwedu.plc.lincoln.com
-    wwwedu-preapprovals.cf.app.ford.com
-    wwwedu-preapprovals.pp.cf.app.ford.com
     wwwedu.proveedores.ford.com
     wwwedu.pshr.ford.com
     wwwedu-pt.engine.ford.com
@@ -5629,14 +4735,11 @@ subdomains:
     wwwedu.sof.ford.com
     wwwedu.sps.ford.com
     wwwedu.srll.ford.com
-    wwwedu-starsxp-dealerconnection-com.cf.app.ford.com
-    wwwedu-starsxp-dealerconnection-com.pp.cf.app.ford.com
     wwwedu.superg.ford.com
     wwwedu.t.bp3a.ford.com
     wwwedu.t.bp3a.lincoln.com
     wwwedu.t.bp3.ford.com
     wwwedu.t.bp3.lincoln.com
-    wwwedu.tfoams.ford.com
     wwwedu.t.inventory.ford.com
     wwwedu.t.inventory.lincoln.com
     wwwedu.t.quickquote.ford.com
@@ -5647,8 +4750,6 @@ subdomains:
     wwwedu.vdsftm.ford.com
     wwwedu.vdsin.ford.com
     wwwedu.ve.ford.com
-    wwwedu-vids-dealerconnection-com.cf.app.ford.com
-    wwwedu-vids-dealerconnection-com.pp.cf.app.ford.com
     wwwedu.vista.ford.com
     wwwedu.vo.ford.com
     wwwedu.vsem.ford.com
@@ -5659,7 +4760,6 @@ subdomains:
     wwwedu.warrantyprocessing.ford.com
     wwwedu.webquote1.ford.com
     wwwedu.webquote.ford.com
-    wwwedu-websiteprogram-dlr.pp.cf.app.ford.com
     wwwedu.wlrr.ford.com
     wwwedu.xsbeurope.ford.com
     www.ehubp.dearborn.ford.com
@@ -5667,41 +4767,26 @@ subdomains:
     www.eim1.ford.com
     www.ekbbooks.ford.com
     www.ekm.ford.com
-    www.elearning.ford.com
-    www.elearning.lincoln.com
     www.elibrary.ford.com
     www.elms.ford.com
-    www.emis.ford.com
     www.employee.ford.com
     www.empolees.ford.com
     www.enbuycalb.lincoln.com
     www.enbuyuslb.lincoln.com
-    www.energy.ford.com
     www.engine.ford.com
     www.enginev2.ford.com
-    www.en.globalowner.ford.ca
-    www.en.globalowner.lincoln.com
     www.epec.ford.com
     www.erinmill.ford.ca
     www.es-delivery-engine.ford.com
-    www.es.globalowner.ford.mx
-    www.es.globalowner.lincoln.com
-    www.esmart2.ford.com
-    www.esow.ford.com
     www.esp.ford.com
     www.esp.lincoln.com
     www.espservices.ford.com
-    www.etis.ford.com
     www.etisload.ford.com
     www.etracker.ford.com
-    www.eused.ford.com
     www.explore.lincoln.com.cn
     www.exportsystem.ford.com
-    www.extwideiptest.lincoln.com
     www.fafcaims.ford.com
     www.faia.ford.com
-    www.faust.idp.ford.com
-    www.fbms.ford.com
     www.fc.ford.com
     www.fcnonline.ford.com
     www.fcpac.ford.com
@@ -5714,22 +4799,15 @@ subdomains:
     www-fcsd-parts-ru-q.ecc1.ford.com
     www-fcsd-parts-ru-q.fmc1.ford.com
     www.fcs.ford.com
-    www.fdse.ford.com
     www.feb.fsn.ford.com
     www.fecs.ford.com
-    www.fenix.ford.com
     www.ffe-aurisq.ford.com
     www.ffe-norway.ford.com
     www.ffepaclom2.ford.com
     www.ffepaclom.ford.com
-    www.ffs.ford.com
-    www.ffsupload.ford.com
     www.fgs.fsn.ford.com
-    www.fiesta.ford.com
     www.finance.ford.com
     www.fld.ford.com
-    www.fleetaccount.ford.com
-    www.fleetcare.ford.com
     www.fleet.ford.ca
     www.fleet.ford.com
     www.fleetservice.ford.com
@@ -5739,47 +4817,29 @@ subdomains:
     www.flexenroll.ford.com
     www.flexnroll.ford.com
     www.fln.ford.com
-    www-fmcdealer-aemsolr-dlr.prod.cf.app.ford.com
-    www-fmcdealer-edms-service-dlr.prod.cf.app.ford.com
-    www-fmcdealerns3270.app.ford.com
-    www.fmms.ford.com
-    www.foc.ford.com
     www.focus.ford.no
-    www.folder.ford.com
-    www.fomei.ford.com
-    www.fomonbase.ford.com
-    www.fordacctg.ford.com
     www.fordav.ford.com
-    www.fordbrandprotection.ford.com
     www.fordbrukt.ford.no
     www.ford.ca
-    www.fordclassic.ford.com
     www.fordcl.ford.com
     www.ford.com
     www.fordcomsearch.ford.com
     www.fordcredit.ar.ford.com
     www.forddirect.fsao.ford.com
-    www.fordenter.ford.com
     www.fordeumedia-a.ford.com
     www.fordeumedia-b.ford.com
     www.fordeumedia-c.ford.com
     www.fordeumedia-d.ford.com
     www.fordeumedia-e.ford.com
     www.fordeumedia-f.ford.com
-    www-fordfinance.prod.cf.app.ford.com
     www.fordguest.ford.com
     www.fordlaw.ford.com
-    www.fordlpg.ford.com
-    www.ford.mx
     www.ford.no
-    www-fordprotect-com-br.prod.cf.app.ford.com
     www.fordscs.ford.com
     www.fordvehiclesfoca.ford.com
     www.fordvehiclesfocb.ford.com
     www.fordvehiclesfoc.ford.com
     www.fordvehiclesus.ford.com
-    www.forso.fi.ford.com
-    www-fpi-external.prod.cf.app.ford.com
     www.fpoc.ford.com
     www.fr.brandcaa.lincoln.com
     www.fr.brandcab.lincoln.com
@@ -5787,80 +4847,44 @@ subdomains:
     www.fr.brandca.lincoln.com
     www.fr.brandpreviewcalb.lincoln.com
     www.frbuycalb.lincoln.com
-    www.fr.cloc-application.ford.ca
     www.fr.credit.ford.ca
-    www.fr.globalowner.ford.ca
     wwwfrst.vrhub.ford.com
     www.fsivbatch.ford.com
-    www.fsiv.ford.com
     www.fsm.ford.com
-    www.fsn.ford.com
     www.fup.fsn.ford.com
-    www.fws.ford.com
     www.gam.ford.com
-    www.gcat2.ford.com
     www.gcat3.ford.com
     www.gci.ford.com
-    www.gcms.ford.com
-    www.gear.ford.com
-    www.gems.ford.com
-    www-geos.app.ford.com
-    www.geos.ford.com
     www.ges.ford.com
-    www.gfc.ford.com
-    www.gfcnapeauthenticator.ford.com
-    www.gfin.ford.com
     www.gforce.ford.com
     www.gicc.ford.com
     www.gim.ford.com
-    www.globalaccountaem.ford.com
-    www.globalaccount.ford.ca
-    www.globalaccount.ford.mx
-    www.globalaccount.ford.no
-    www.globalaccount.lincoln.com
     www.global.clipsheet.ford.com
     www.globalowneraem.ford.com
     www.globalownerlb.lincoln.com
-    www.gma.ford.com
-    www.gmm.ford.com
-    www.gmmimds.ford.com
     www.goasis.ford.com
-    www.go.ford.com
     www.google.ford.com
-    www.gos.ford.com
     www.gpas-cache.ford.com
     www.gppm.ford.com
-    www.grid.ford.com
     www.gsd.ford.com
-    www.gsec.ford.com
     www.gsi.ford.com
     www.gsi-nt.ford.com
-    www.gslts.ford.com
     www.gspoolselection.ford.com
     www.gsps.ford.com
     www.g.t.ford.com
-    www.gtpcm.ford.com
     www.gttc.ford.com
-    www-gvtts-f5lb.prod.cf.app.ford.com
     www.hdds2.ford.com
     www.help.lincoln.com
     www.hmm.ford.com
     www.hod.ford.com
-    www.homologation.ford.com
     www.hronline2.ford.com
-    www.hronline.ford.com
     www.hteam.ford.com
     www.idea.ford.com
-    www.imagine.ford.com
-    www.imcs.ford.com
     www.imcsprod.ford.com
-    www.img.ford.com
     www.impex.ford.com
     www.incentives.ford.com
     www.incentives.lincoln.com
     www.incentivesqa.lincoln.com
-    www.inc.ford.com
-    www.india.ford.com
     wwwint2mg.owner.lincoln.com
     wwwint2.owncalb.lincoln.com
     wwwint2.ownercaab.lincoln.com
@@ -5897,7 +4921,6 @@ subdomains:
     wwwint.lincolnbranda.ford.ca
     wwwint.lincolnbrandb.ford.ca
     wwwint.lincolnbrand.ford.ca
-    wwwint.lincoln.com.cn
     wwwintmg3.brandca.lincoln.com
     wwwintmg3.brandus.lincoln.com
     wwwintmg3.fr.brandca.lincoln.com
@@ -5907,8 +4930,6 @@ subdomains:
     wwwint.owncalb.lincoln.com
     wwwint.ownerauthor.lincoln.com
     wwwint.ownercaab.lincoln.com
-    wwwint.ownercalb.lincoln.com
-    wwwint.ownerlb.lincoln.com
     wwwint.owner.lincoln.com
     wwwint.ownerusab.lincoln.com
     wwwint.ownlb.lincoln.com
@@ -5953,48 +4974,29 @@ subdomains:
     www.itsssip.ford.com
     www.ivis2.ford.com
     www.ivis3.ford.com
-    www.ivisb.ford.com
-    www.ivs.ford.com
     www.jh.lincoln.com
-    www.jira.ford.com
     www.jlrivs.ford.com
     www.johnc.lincoln.com
-    www.jol.ford.com
     www.katiedoingprodtest.lincoln.com
     www.katietest110.lincoln.com
-    www.kbbservices.lincoln.com
     www.kbi.fsao.ford.com
     www.kdes.ford.com
     www.kfstraining.ford.com
-    www.ko.globalowner.lincoln.com
-    www.launch.ford.com
     www.lcp.lincoln.com
     www.lcp.lincoln.com.cn
     www.lcs2.ford.com
     www.lcs.ford.com
-    www.lean.ford.com
-    www.learning.ford.com
     www.lincolnbranda.ford.ca
     www.lincolnbrandb.ford.ca
     www.lincolnbrand.ford.ca
     www.lincoln.com
-    www.lincoln.com.cn
-    www.lincoln.com.pr
     www.lincolnprotect.lincoln.com
     www.lincolnservicespecials.lincoln.com
     www.lincolnusa.lincoln.com
     www.lincolnusb.lincoln.com
     www.lincolnus.lincoln.com
     www.locate.ford.com
-    www.lom.ford.com
-    www.lookandstyle.ford.com
-    www.mach1ml-dev.ford.com
-    www.mail.newfordtech.com
-    www.managecredential.ford.com
     www.manager-gam.ford.com
-    www.mappsim.ford.com
-    www.mats.ford.com
-    www.mcs.ford.com
     www.mediaab.lincoln.com
     www.mediaa.lincoln.com
     www.mediabin.ford.com
@@ -6003,11 +5005,7 @@ subdomains:
     www.medialb.lincoln.com
     www-medialb-lnc.app.lincoln.com
     www.media.lincoln.com
-    www.me.ford.com
-    www.me.lincoln.com
     www.mep.ford.com
-    www.merchandise.ford.com
-    www.merchandise.lincoln.com
     www.mexico.ford.mx
     www.mexicohourlypaystub.ford.com
     wwwmg1.ar.ford.com
@@ -6215,7 +5213,6 @@ subdomains:
     wwwmg.ip.ford.com
     wwwmg.kbi.fsao.ford.com
     wwwmg.kdes.ford.com
-    wwwmg.lincoln.com
     wwwmg.lom.ford.com
     wwwmg.mia.fsao.ford.com
     wwwmg.mis.dearborn.ford.com
@@ -6289,31 +5286,22 @@ subdomains:
     www.mis.dearborn.ford.com
     www.mis.fsao.ford.com
     www.mk.ford.com
-    www.moa.ford.com
     www.mondeo.ford.com
     www.mondeo.ford.no
     www.monespaceford.ford.ca
     www.motorcraft.ar.ford.com
-    www-motorcraftservice.app.ford.com
     www.motorcraftservice.ford.com
     www.mpl.ford.com
     www.mps1.ford.com
-    www.msds.ford.com
     www.mso.ford.com
     www.mustangcustomizerservices.ford.com
     www.mustang.ford.com
-    www.mviper.ford.com
     www.mybenefits.ford.com
-    www.mycareer.ford.com
     www.myfolder.ford.com
     www.myford.ford.ca
-    www.myfordvehicles.ford.com
-    www.mylearning.ford.com
     www.mymustang.ford.com
     www.myogc.ford.com
-    www.myplan.ford.com
     www.myreleases.ford.com
-    www.mystory.ford.com
     www.netops.ford.com
     www.newfordtech.com
     www.ngauthor.ford.com
@@ -6323,49 +5311,26 @@ subdomains:
     www.ngpublisher.lincoln.com
     www.nguams.ford.com
     www.nic.lincoln.com
-    www-nlpdta-f5lb.prod.cf.app.ford.com
     www.nmpdcglobal.ford.com
-    www.no.globalowner.ford.no
     www.now.lincoln.com
-    www.nvo.ford.ca
-    www.nvo.lincoln.com
     www.nvousa.ford.com
     www.nvousb.ford.com
-    www.nvous.ford.com
     www.oasis.ford.com
-    www.oca.ford.ca
-    www.oca.ford.com
-    www.oca.lincoln.com
-    www.oct.ford.com
     www.odyssey.ford.com
     www.onbase.ford.com
     www.one.ford.com
     www.onlinestore.ford.com
-    www.onsite.ford.com
     www.ontrack.ford.com
-    www.opus.ford.com
-    www.orb.ford.com
-    www-origin.ar.ford.com
-    www.origin.caribe.ford.com
-    www.origin.centroamerica.ford.com
-    www.origin.ford.mx
     www.origin.fordseocupa.ford.com
-    www.origin.india.ford.com
     www.origin.lcp.lincoln.com
     www.origin.lincoln.com.cn
-    www.origin.lincoln.com.pr
     www.origin.lincolnkr.ford.com
     www.origin.lincolnmx.ford.com
     www.origin.lincolnpr.ford.com
-    www.origin.me.ford.com
-    www.origin.me.lincoln.com
     www.origin.motorcraft.ford.com
     www.origin.motorcraftmx.ford.com
     www.origin.ssa.ford.com
-    www.osb.ford.com
-    www.ota.ford.com
     www.otf-ui.ford.com
-    www.ovs.ford.com
     www.owncalb.lincoln.com
     www.owneradvantage.ford.com
     www.owneradvantagerewards.ford.ca
@@ -6386,44 +5351,27 @@ subdomains:
     www.ownerservicesb.ford.com
     www.ownerservices.ford.com
     www.ownlb.lincoln.com
-    www.packaging.ford.com
-    www.packagingqa.ford.com
     www.pagcms.ford.com
     www.pagshare.ford.com
-    www-panda.app.ford.com
-    www.panda.ford.com
-    www-pandap2.app.ford.com
-    www-pandap.app.ford.com
     www.pandap.ford.com
-    www-pandaqa.app.ford.com
     www.pandaqa.ford.com
-    www-pandaq.app.ford.com
     www.pandaq.ford.com
     www-pandarepq3.app.ford.com
-    www.partner.ford.com
-    www.partner.lincoln.com
     www.parts.ford.com
     www.password.ford.com
-    www.paymentcalculator.ford.ca
-    www.payments.ford.com
     www-pcf.authagent.lincoln.com
     www-pcf.credit.ford.ca
     www-pcf.elearning.lincoln.com
     www-pcf.emivis.ford.com
     www-pcf.globalaccount.ford.ca
-    wwwpcf-imagine.prod.cf.app.ford.com
     www-pcf.nvo.ford.ca
     www-pcf.nvo.lincoln.com
-    www.pcm.ford.com
     www.pcmsds.ford.com
     www.pd.ford.com
     www.pdnaesafetyrestraints.ford.com
     www.pecnet.ford.com
     wwwperf2.owncalb.lincoln.com
     wwwperf2.ownlb.lincoln.com
-    wwwperf.account.lincoln.com
-    wwwperf.akamai.brandaplb.ford.com
-    wwwperf.authagent.lincoln.com
     wwwperf.brandapa.lincoln.com
     wwwperf.brandapb.lincoln.com
     wwwperf.brandaplb.lincoln.com
@@ -6436,15 +5384,8 @@ subdomains:
     wwwperf.brandus.ford.com
     wwwperf.branduslb.lincoln.com
     wwwperf.brandus.lincoln.com
-    wwwperf.dfyservices.ford.com
-    wwwperfext.authagent.lincoln.com
     wwwperf.fr.brandcalb.lincoln.com
     wwwperf.fr.brandca.lincoln.com
-    wwwperf.globalaccount.ford.ca
-    wwwperf.globalaccount.ford.mx
-    wwwperf.globalaccount.ford.no
-    wwwperf.globalaccount.lincoln.com
-    wwwperf-globalaccount-lincoln-mx.pp.cf.app.ford.com
     wwwperfmg3.brandca.lincoln.com
     wwwperfmg3.brandus.lincoln.com
     wwwperfmg3.fr.brandca.lincoln.com
@@ -6452,13 +5393,9 @@ subdomains:
     wwwperfmg3.shopus.lincoln.com
     wwwperfmg.owner.lincoln.com
     www.performance.ford.com
-    www-performanceparts.app.ford.com
-    www.performanceparts.ford.com
     wwwperf.owncalb.lincoln.com
     wwwperf.ownerauthor.lincoln.com
     wwwperf.ownercaab.lincoln.com
-    wwwperf.ownercalb.lincoln.com
-    wwwperf.ownerlb.lincoln.com
     wwwperf.owner.lincoln.com
     wwwperf.ownlb.lincoln.com
     wwwperf.retaila.lincoln.com
@@ -6466,30 +5403,20 @@ subdomains:
     wwwperf.retail.lincoln.com
     wwwperf.shopcalb.lincoln.com
     wwwperf.shopuslb.lincoln.com
-    www.permissions.lincoln.com
     www.pfs.ford.com
     www.pieportal.ford.com
     wwwpilot.analytics.ford.com
     wwwpit.partner.lincoln.com
-    www.planovalo.ar.ford.com
-    www.plc.ford.com
-    www.plc.lincoln.com
-    www.pneus.ford.ca
     www.po.ford.com
-    www.ppe.ford.com
-    wwwprdvp.gvms-getcurrent.ford.com
     wwwprod-engine.ford.com
     www.prod.gspas.ford.com
     www.productcreationsearch.ford.com
     www.professionaldevelopment.ford.com
     www.pro.ford.com
-    www.proveedores.ford.com
     www.proximity.auros.ford.com
-    www.prp.ford.com
     www.pshr.ford.com
     www.pulse.ford.com
     www.purchasing.ford.com
-    www.pw.ford.com
     www.q1.ford.com
     wwwqa2.brandcalb.lincoln.com
     wwwqa2.branduslb.lincoln.com
@@ -6514,60 +5441,37 @@ subdomains:
     wwwqa2.shop.lincoln.com
     wwwqa2.shopuslb.lincoln.com
     wwwqa.360.ford.com
-    wwwqa3.brandcalb.lincoln.com
-    wwwqa3.branduslb.lincoln.com
     wwwqa3.fleet.ford.ca
     wwwqa3.ford.ca
-    wwwqa3.fr.brandcalb.lincoln.com
     wwwqa3.lincoln.com
     wwwqa3.rvcm.ford.com
     wwwqa3.shopcalb.lincoln.com
-    wwwqa3.shop.ford.ca
     wwwqa3.shop.lincoln.com
     wwwqa3.shopuslb.lincoln.com
     wwwqa.accdocs.ford.com
     wwwqa.accessories.ford.ca
     wwwqa.accessories.ford.com
     wwwqa.accessories.lincoln.com
-    wwwqa-accessorizemyride.cf.app.ford.com
-    wwwqa.accessorizemyride.ford.com
-    wwwqa-accessorizemyride.pp.cf.app.ford.com
-    wwwqa.account.lincoln.com
     wwwqa.accountmanager.lincoln.com
     wwwqa.addonprovider.ford.com
     wwwqa.admin-gam.ford.com
     wwwqa.admintool.ford.com
-    wwwqa.advocacy.ford.com
     wwwqa.afr.ford.com
     wwwqa.afrl1.ford.com
     wwwqa.afrl2.ford.com
     wwwqa.afrl3.ford.com
-    wwwqa.agenda.ford.com
     wwwqa.agreement.ford.com
     wwwqaa.inventory.ford.com
-    wwwqa.akamai.ar.brandaplb.ford.com
-    wwwqa.akamai.br.brandaplb.ford.com
     wwwqa.akamai.dragonfly.ford.com
-    wwwqa.akamai.mx.brandaplb.ford.com
-    wwwqa-api-ecar.cf.app.ford.com
-    wwwqa.api.ecar.ford.com
-    wwwqa-api-ecar.pp.cf.app.ford.com
-    wwwqa.api.epsw.ford.com
-    wwwqa-api-epsw.pp.cf.app.ford.com
     wwwqa.applyforcredit.ford.ca
     wwwqa.apqp.ford.com
     wwwqa.aps.ford.com
     wwwqaa.quickquote.ford.com
-    wwwqa-ar.app.ford.com
     wwwqa.ar.ford.com
     wwwqa.armr.ford.com
-    wwwqa.arsom.ford.com
-    wwwqa.at.ford.com
     wwwqa.atfordreg.ford.com
     wwwqa.atlas.ford.com
-    wwwqa.authagent.lincoln.com
     wwwqa.autoshows.ford.com
-    wwwqa.axz.ford.com
     wwwqa.bcfap.ford.com
     wwwqab.inventory.ford.com
     wwwqa.bp3a.ford.com
@@ -6589,7 +5493,6 @@ subdomains:
     wwwqa.bpfoc.ford.ca
     wwwqa.bpfoc.ford.com
     wwwqa.bp.lincoln.com
-    wwwqa.bpm.ford.com
     wwwqa.bpmtfoca.ford.com
     wwwqa.bpmtfocb.ford.com
     wwwqa.bpmtfoc.ford.com
@@ -6634,22 +5537,13 @@ subdomains:
     wwwqa.campaignlb.lincoln.com
     wwwqa.campaign.lincoln.com
     wwwqa.canada.fleet.ford.com
-    wwwqa-canadapaystub.cf.app.ford.com
     wwwqa.capacityplanning2.ford.com
-    wwwqa.capacityplanning.ford.com
     wwwqa.carsadmin.ford.com
-    wwwqa-ccd-dealerconnection-com.cf.app.ford.com
-    wwwqa-ccd-dealerconnection-com.pp.cf.app.ford.com
     wwwqa.cdscupid1.ford.com
     wwwqa.cdscupid2.ford.com
     wwwqa.cdscupid3.ford.com
     wwwqa.centraldevendas.ford.com
     wwwqa.cfa.ford.com
-    wwwqa-cfwsmod-dealerconnection-com.cf.app.ford.com
-    wwwqa-cfwsmod-dealerconnection-com.pp.cf.app.ford.com
-    wwwqa-chatbot.pp.cf.app.ford.com
-    wwwqa-cis-dealerconnection.cf.app.ford.com
-    wwwqa-cis-dealerconnection.pp.cf.app.ford.com
     wwwqa.clwa.ford.com
     wwwqa.clwa.lincoln.com
     wwwqa.clwb.ford.com
@@ -6661,19 +5555,11 @@ subdomains:
     wwwqa.companyvehicles.ford.com
     wwwqa.compare.ford.ca
     wwwqa.competencycenter.ford.com
-    wwwqa.concesionarios.ford.com
-    wwwqa-concesionarios.pp.cf.app.ford.com
     wwwqa.configurador.ford.com
-    wwwqa-contatoproativo.cf.app.ford.com
-    wwwqa.contatoproativo.ford.com
-    wwwqa-contatoproativo.pp.cf.app.ford.com
-    wwwqa.contrack.ford.com
     wwwqa.corporate.ford.com
     wwwqa.cotusa.ford.com
     wwwqa.cotusb.ford.com
     wwwqa.cotus.ford.com
-    wwwqa-covidtest.cf.app.ford.com
-    wwwqa-covidtest.pp.cf.app.ford.com
     wwwqa.cpmd.ford.com
     wwwqa.cpmdpublish.ford.com
     wwwqa.cpmds.ford.com
@@ -6683,57 +5569,29 @@ subdomains:
     wwwqa.creditbranda.ford.ca
     wwwqa.creditbrandb.ford.ca
     wwwqa.creditbrand.ford.ca
-    wwwqa.credit.ford.ca
-    wwwqa.credit.ford.com
-    wwwqa.credit.lincoln.com
     wwwqa.credit.lincoln.ford.com
-    wwwqa.credito.lincoln.com
     wwwqa.crm.ford.com
     wwwqa.csps.ford.com
     wwwqa.ctx.ford.com
     wwwqa.customsisf.ford.com
     wwwqa.cxservices.ford.ca
-    wwwqa-datadif-dealerconnection-com.cf.app.ford.com
-    wwwqa-datadif-dealerconnection-com.pp.cf.app.ford.com
     wwwqa.dbp1.ford.com
     wwwqa.dbp2.ford.com
     wwwqa.dbp3.ford.com
     wwwqa.dbp4.ford.com
-    wwwqa.dcdshubws.ford.com
-    wwwqa-dcdshubws.pp.cf.app.ford.com
     wwwqa.ddl.ford.com
     wwwqa.ddltest.ford.com
     wwwqa.decisionmgr.ext.ford.com
-    wwwqa.decisionmgr.ford.com
-    wwwqa-desks.cf.app.ford.com
-    wwwqa.dfyservices.ford.com
     wwwqa.dorf.ford.com
     wwwqa.download-gam.ford.com
     wwwqa.dps.ford.com
     wwwqa.dragonfly.ford.com
     wwwqa.dragonflyng.ford.com
-    wwwqa-drax.cf.app.ford.com
-    wwwqa.drax.ford.com
-    wwwqa-drax.pp.cf.app.ford.com
     wwwqadr.enginev2.ford.com
-    wwwqa.dreservices.lincoln.com
     wwwqa.dr.ford.com
     wwwqa.drpmetric.ford.com
     wwwqa.dsat.ford.com
-    wwwqa.dsb2.ford.com
     wwwqa.dts.ford.com
-    wwwqa-dyfca.cf.app.ford.com
-    wwwqa.dyfca.ford.com
-    wwwqa-dyfca.pp.cf.app.ford.com
-    wwwqa-dyf.cf.app.ford.com
-    wwwqa.dyf.ford.com
-    wwwqa-dyf.pp.cf.app.ford.com
-    wwwqa-dylca.cf.app.ford.com
-    wwwqa.dylca.ford.com
-    wwwqa-dylca.pp.cf.app.ford.com
-    wwwqa-dyl.cf.app.ford.com
-    wwwqa.dyl.ford.com
-    wwwqa-dyl.pp.cf.app.ford.com
     wwwqa.eassets.ford.com
     wwwqa.ebcm.ford.com
     wwwqa.ebcmws.ford.com
@@ -6755,85 +5613,43 @@ subdomains:
     wwwqa.edrwebservices.ford.com
     wwwqa.ehubp.dearborn.ford.com
     wwwqa.ei.ford.com
-    wwwqa-eja-fsao.cf.app.ford.com
-    wwwqa.eja.fsao.ford.com
-    wwwqa-eja-fsao.pp.cf.app.ford.com
     wwwqa.ekbbooks.ford.com
-    wwwqa.elearning.lincoln.com
     wwwqa.elibrary.ford.com
     wwwqa.enginev2.ford.com
-    wwwqa-epays.cf.app.ford.com
-    wwwqa.epays.ford.com
-    wwwqa-epays.pp.cf.app.ford.com
-    wwwqa.epsw.ford.com
     wwwqa.esmart2.ford.com
     wwwqa.esow.ford.com
-    wwwqa-et-dealerconnection-com.cf.app.ford.com
-    wwwqa-et-dealerconnection-com.pp.cf.app.ford.com
     www.qa-etis.ford.com
-    wwwqa.etis.ford.com
     wwwqa.eused.ford.com
     wwwqa.exportsystem.ford.com
-    wwwqa-ext-eblesswav-api.cf.app.ford.com
-    wwwqa.ext-eblesswav.api.ford.com
-    wwwqa-ext-eblesswav-api.pp.cf.app.ford.com
-    wwwqa-fav.cf.app.ford.com
-    wwwqa.fav.ford.com
-    wwwqa-fav.pp.cf.app.ford.com
-    wwwqa-fbmseu.cf.app.ford.com
-    wwwqa.fbmseu.ford.com
-    wwwqa-fbmseu.pp.cf.app.ford.com
-    wwwqa.fbms.ford.com
-    wwwqa.fcameu-gateway.ford.com
-    wwwqa-fcameu-gateway.pp.cf.app.ford.com
-    wwwqa-fceaims-dlr.pp.cf.app.ford.com
     wwwqa.fcglam.lincoln.com
     wwwqa.fcsd.ford.com
-    wwwqa.fcsd-parts.ford.com
-    wwwqa.fcsd-parts-na.ford.com
     wwwqa.fcs.ford.com
     wwwqa.fdse1.ford.com
-    wwwqa.fdse.ford.com
     wwwqa.feb.fsn.ford.com
     wwwqa.fecs.ford.com
     wwwqa.ffe-aurisq.ford.com
     wwwqa.ffepaclom2.ford.com
     wwwqa.ffepaclom.ford.com
-    wwwqa.ffs.ford.com
-    wwwqa.ffsupload.ford.com
     wwwqa.fgs.fsn.ford.com
-    wwwqa.fimco.ford.com
     wwwqa.fld.ford.com
     wwwqa.fleet.ford.ca
     wwwqa.fleet.ford.com
-    wwwqa.fleetlogin.ford.com
-    wwwqa-fleetlogin.pp.cf.app.ford.com
     wwwqa.fleetservice.ford.com
     wwwqa.fleetusa.ford.com
     wwwqa.fleetusb.ford.com
     wwwqa.fleetus.ford.com
-    wwwqa-fmcdealer-comm-dealerconnection-com.cf.app.ford.com
-    wwwqa-fmcdealer-comm-dealerconnection-com.pp.cf.app.ford.com
-    wwwqa-fmcdealervt3270.app.ford.com
     wwwqa.fmms.ford.com
-    wwwqa-fomei.app.ford.com
-    wwwqa.fomei.ford.com
-    wwwqa.fomonbase.ford.com
     wwwqa.fordbrandprotection.ford.com
     wwwqa.ford.ca
-    wwwqa.fordclassic.ford.com
     wwwqa.fordcl.ford.com
     wwwqa.ford.com
     wwwqa.fordconnection.ford.com
     wwwqa.fordcredit.ford.com
     wwwqa.forddirect.fsao.ford.com
-    wwwqa.fordlpg.ford.com
     wwwqa.fordscs.ford.com
     wwwqa.fordvehiclesfoca.ford.com
     wwwqa.fordvehiclesfocb.ford.com
     wwwqa.fordvehiclesfoc.ford.com
-    wwwqa.forso.fi.ford.com
-    wwwqa-fpracademy.pp.cf.app.ford.com
     wwwqa.fr.brandcaa.lincoln.com
     wwwqa.fr.brandcab.lincoln.com
     wwwqa.fr.brandcalb.lincoln.com
@@ -6845,44 +5661,23 @@ subdomains:
     wwwqa.fsm.ford.com
     wwwqa.fup.fsn.ford.com
     wwwqa.gam.ford.com
-    wwwqa.gcat2.ford.com
     wwwqa.gcat3.ford.com
     wwwqa.gci.ford.com
     wwwqa.gcms.ford.com
-    wwwqa-gdtsc.cf.app.ford.com
-    wwwqa.gdtsc.ford.com
-    wwwqa-gdtsc.pp.cf.app.ford.com
-    wwwqa.geos.ford.com
     wwwqa.ges.ford.com
-    wwwqa-gfc.cf.app.ford.com
-    wwwqa.gfc.ford.com
-    wwwqa-gfc.pp.cf.app.ford.com
     wwwqa.gforce.ford.com
     wwwqa.gicc.ford.com
-    wwwqa.globalaccountaem.ford.com
     wwwqa.globalaccount.ford.ca
     wwwqa.globalaccount.lincoln.com
-    wwwqa-globalfinancecalculator.cf.app.ford.com
-    wwwqa.globalfinancecalculator.ford.com
-    wwwqa-globalfinancecalculator.pp.cf.app.ford.com
     wwwqa.globalowneraem.ford.com
     wwwqa.globalownerlb.lincoln.com
-    wwwqa.gmmimds.ford.com
-    wwwqa-goalsng-listener.cf.app.ford.com
-    wwwqa-goalsng-listener.pp.cf.app.ford.com
     wwwqa.goasis.ford.com
     wwwqa.gppm.ford.com
-    wwwqa.gsec.ford.com
-    wwwqa.gslts.ford.com
     wwwqa.gsps.ford.com
     wwwqa.gttc.ford.com
     wwwqa.hdds2.ford.com
-    wwwqa.hdds.ford.com
     wwwqa.help.lincoln.com
-    wwwqa-hrjoe.pp.cf.app.ford.com
     wwwqa.hronline2.ford.com
-    wwwqa.hronline.ford.com
-    wwwqa-iciuina.app.ford.com
     wwwqa.idea.ford.com
     wwwqa.imagine.ford.com
     wwwqa.imcs.ford.com
@@ -6912,21 +5707,15 @@ subdomains:
     wwwqa.itsms.ford.com
     wwwqa.ivis2.ford.com
     wwwqa.ivis3.ford.com
-    wwwqa.ivisb.ford.com
-    wwwqa.ivs.ford.com
     wwwqa.jlrivs.ford.com
     wwwqa.katiedoingprodtest.lincoln.com
     wwwqa.katietest110.lincoln.com
-    wwwqa.kbbservices.lincoln.com
     wwwqa.kbi.fsao.ford.com
     wwwqa.kdes.ford.com
-    wwwqa-laracademyus.cf.app.ford.com
-    wwwqa-laracademyus.pp.cf.app.ford.com
     wwwqa.lcp.lincoln.com
     wwwqa.lcp.lincoln.com.cn
     wwwqa.lcs2.ford.com
     wwwqa.lcs.ford.com
-    wwwqa.lean.ford.com
     wwwqa.learning.ford.com
     wwwqa.lincolnafs.ford.com
     wwwqa.lincolnautofinance.ford.com
@@ -6935,7 +5724,6 @@ subdomains:
     wwwqa.lincolnbrandb.ford.ca
     wwwqa.lincolnbrand.ford.ca
     wwwqa.lincoln.com
-    wwwqa.lincoln.com.cn
     wwwqa.lincolnusa.lincoln.com
     wwwqa.lincolnusb.lincoln.com
     wwwqa.lincolnus.lincoln.com
@@ -7175,11 +5963,8 @@ subdomains:
     wwwqa.mia.fsao.ford.com
     wwwqa.m.inventory.lincoln.com
     wwwqa.mis.dearborn.ford.com
-    wwwqa-mit-payments-server.cf.app.ford.com
-    wwwqa-mit-payments-server.pp.cf.app.ford.com
     wwwqa.mk.ford.com
     wwwqa.monespaceford.ford.ca
-    wwwqa-motorcraft-ar.pp.cf.app.ford.com
     wwwqa.m.quickquote.ford.com
     wwwqa.m.quickquote.lincoln.com
     wwwqa.m.quickquoteus.lincoln.com
@@ -7191,13 +5976,9 @@ subdomains:
     wwwqa.mt.bp3.lincoln.com
     wwwqa.mt.bpfoc.ford.ca
     wwwqa.mustangcustomizerservices.ford.com
-    wwwqa-mviper.cf.app.ford.com
-    wwwqa.mviper.ford.com
-    wwwqa-mviper.pp.cf.app.ford.com
     wwwqa.myford.ford.ca
     wwwqa.myfordvehicles.ford.com
     wwwqa.mymustang.ford.com
-    wwwqa.myplan.ford.com
     wwwqa.myreleases.ford.com
     wwwqa.newfordtech.com
     wwwqa.ngauthor.ford.com
@@ -7209,51 +5990,36 @@ subdomains:
     wwwqa.nic.lincoln.com
     wwwqa.nmpdcglobal.ford.com
     wwwqa.now.lincoln.com
-    wwwqa-nvo.cf.app.ford.com
     wwwqa.nvo.ford.ca
     wwwqa.nvo.lincoln.com
-    wwwqa-nvo.pp.cf.app.ford.com
     wwwqa.nvousa.ford.com
     wwwqa.nvousb.ford.com
-    wwwqa.nvous.ford.com
     wwwqa.oca.ford.ca
     wwwqa.oca.lincoln.com
     wwwqa.odyssey.ford.com
     wwwqa.onlinevehiclefinancing.ford.com
     wwwqa.origin.lcp.lincoln.com
-    wwwqa-ovs.cf.app.ford.com
-    wwwqa-ovs.pp.cf.app.ford.com
     wwwqa.owncalb.lincoln.com
     wwwqa.owneradvantagerewards.ford.ca
     www.qa.owneradvantagerewards.ford.com
     wwwqa.ownerauthor.lincoln.com
     wwwqa.ownercaab.lincoln.com
-    wwwqa.ownercalb.lincoln.com
-    wwwqa.ownerlb.lincoln.com
     wwwqa.ownerorigin.lincoln.com
     wwwqa.ownerservicesa.ford.com
     wwwqa.ownerservicesb.ford.com
     wwwqa.ownerservices.ford.com
     wwwqa.ownlb.lincoln.com
-    wwwqa-panda.cf.app.ford.com
-    wwwqa-panda.pp.cf.app.ford.com
     wwwqa.partner.lincoln.com
     wwwqa.password.ford.com
-    wwwqapcf-imagine.pp.cf.app.ford.com
-    wwwqa.pcm.ford.com
     wwwqa.pcmsds.ford.com
     wwwqa.pecnet.ford.com
-    wwwqa.performanceparts.ford.com
     wwwqa.pieportal.ford.com
-    wwwqa.planovalo.ar.ford.com
     wwwqa.plc.lincoln.com
     wwwqa.professionaldevelopment.ford.com
-    wwwqa.proveedores.ford.com
     wwwqa.pshr.ford.com
     wwwqa.pulse.ford.com
     wwwqa.pw.ford.com
     wwwqa.q1.ford.com
-    wwwqa-quicklane-ar.pp.cf.app.ford.com
     wwwqa.quicklease.ford.com
     wwwqa.quickquotea.lincoln.com
     wwwqa.quickquoteb.lincoln.com
@@ -7276,42 +6042,27 @@ subdomains:
     wwwqa.raf.ford.com
     wwwqa.rapid.ford.com
     wwwqa.rea.ford.com
-    wwwqa-relatorioconectado.cf.app.ford.com
-    wwwqa-relatorioconectado.pp.cf.app.ford.com
-    wwwqa-remitosdigitales.pp.cf.app.ford.com
     wwwqa.request.ford.com
     wwwqa.requesttestwork.ford.com
     wwwqa.retaila.lincoln.com
     wwwqa.retailb.lincoln.com
     wwwqa.retail.lincoln.com
     wwwqa.rex.ford.com
-    wwwqa.rfq.ford.com
-    wwwqa-rpa-pega-1.app.ford.com
     wwwqa.rrp.ford.com
-    wwwqa-sa-directsales-dealerconnection-com.cf.app.ford.com
-    wwwqa-sa-directsales-dealerconnection-com.pp.cf.app.ford.com
     wwwqa.scm.ford.com
-    wwwqa.sdcds.ford.com
     wwwqa.seaccount.ford.com
     wwwqa.secureauthe.ford.com
     wwwqa.secureauthf.ford.com
     wwwqa.secureauth.ford.com
     wwwqa.secure.dragonfly.ford.com
     wwwqa.securid.ford.com
-    wwwqa-seis-api-dlr.pp.cf.app.ford.com
-    wwwqa-seis-dealerconnection-com.cf.app.ford.com
-    wwwqa-seis-dealerconnection-com.pp.cf.app.ford.com
     wwwqa.serviceevent.ford.com
     wwwqa.servicesfoca.ford.com
     wwwqa.servicesfocb.ford.com
     wwwqa.servicesfoc.ford.com
-    wwwqa.serviceslb.lincoln.com
-    wwwqa-serviceslb-lincoln-com.cf.app.ford.com
-    wwwqa-serviceslb-lincoln-com.pp.cf.app.ford.com
     wwwqa.servicesusa.ford.com
     wwwqa.servicesusb.ford.com
     wwwqa.servicesus.ford.com
-    wwwqa.servis2.ford.com
     wwwqa.servis2nat1.ford.com
     wwwqa.shopcaa.lincoln.com
     wwwqa.shopcab.lincoln.com
@@ -7330,7 +6081,6 @@ subdomains:
     wwwqa.siga.ford.com
     wwwqa.silas.ford.com
     wwwqa.simba.ford.com
-    wwwqa.sim.ford.com
     wwwqa.sims1.ford.com
     wwwqa.sims.ford.com
     wwwqa.speedy.ford.com
@@ -7340,7 +6090,6 @@ subdomains:
     wwwqa.stamps-esp.ford.com
     wwwqa.subscriptions.ford.com
     wwwqa.superg.ford.com
-    wwwqa.suppcomm.ford.com
     wwwqa.supplierinfo.ford.com
     wwwqa.surfandlearn.ford.com
     wwwqa.svs.fsao.ford.com
@@ -7354,23 +6103,16 @@ subdomains:
     wwwqa.t.bpbl.lincoln.com
     wwwqa.t.bpfoc.ford.ca
     wwwqa.t.bp.lincoln.com
-    wwwqa.ter.ford.com
     wwwqatest.fordcreditbr.ford.com
-    wwwqa.tfoamsng.ford.com
     wwwqa.tkb.ford.com
     wwwqa.t.quickquote.ford.com
     wwwqa.t.quickquote.lincoln.com
     wwwqa.t.quickquoteusa.lincoln.com
     wwwqa.t.quickquoteusb.lincoln.com
     wwwqa.tradein.lincoln.com
-    wwwqa-transformation-agenda.cf.app.ford.com
-    wwwqa.transformation.agenda.ford.com
-    wwwqa-transformation-agenda.pp.cf.app.ford.com
     wwwqa.tvs.fsao.ford.com
     wwwqa.urs.ford.com
     wwwqa.us.fleet.ford.com
-    wwwqa-vaccination.cf.app.ford.com
-    wwwqa-vaccination.pp.cf.app.ford.com
     wwwqa-vaccine.cf.app.ford.com
     wwwqa.vast.ford.com
     wwwqa.vcservices.ford.com
@@ -7383,7 +6125,6 @@ subdomains:
     wwwqa.vdsrprtg.ford.com
     wwwqa.vdstopl.ford.com
     wwwqa.vdsuk.ford.com
-    wwwqa.ve.ford.com
     wwwqa.vfs.ford.com
     wwwqa.vhi.fsao.ford.com
     wwwqa.vista1.ford.com
@@ -7394,7 +6135,6 @@ subdomains:
     wwwqa.vista6.ford.com
     wwwqa.vmacs.ford.com
     wwwqa.vms.ford.com
-    wwwqa.voarg.ford.com
     wwwqa.vo.ford.com
     wwwqa.volunteer.ford.com
     wwwqa.vrhub.ford.com
@@ -7407,9 +6147,6 @@ subdomains:
     wwwqa.warrantyclaimslp.ford.com
     wwwqa.warrantyclaimsnat.ford.com
     wwwqa.warranty.ford.com
-    wwwqa.warrantyprocessing.ford.com
-    wwwqa-webcentergear.app.ford.com
-    wwwqa.webcenter.gear.ford.com
     wwwqa.webdefects.ford.com
     wwwqa.webfocus7.ford.com
     wwwqa.webfocus.ford.com
@@ -7418,9 +6155,6 @@ subdomains:
     wwwqa.wfsharebi1.ford.com
     wwwqa.wfsharebi.ford.com
     wwwqa.wlrr.ford.com
-    wwwqa.workingcondition.ford.com
-    wwwqa-workplace.cf.app.ford.com
-    wwwqa-workplace.pp.cf.app.ford.com
     wwwqa.wsi.ford.com
     wwwqa.wslb2be.ford.com
     wwwqa.wslb2bf.ford.com
@@ -7432,17 +6166,11 @@ subdomains:
     wwwqa.wsl-federation.ford.com
     wwwqa.wslf.ford.com
     wwwqa.wsl.ford.com
-    wwwqa-wsmodadmin-dealerconnection-com.cf.app.ford.com
-    wwwqa-wsmodadmin-dealerconnection-com.pp.cf.app.ford.com
-    wwwqa-wsmodapi-dealerconnection-com.cf.app.ford.com
-    wwwqa-wsmodapi-dealerconnection-com.pp.cf.app.ford.com
     wwwqa.wss.ford.com
     wwwqa.xsbeurope.ford.com
     wwwqa.youtube.lincoln.com
     www.qcp.fis.ford.com
     www.qfc.ford.com
-    www.qlik.ford.com
-    www.qualify.ford.com
     www.quicklease.ford.com
     www.quickquotea.lincoln.com
     www.quickquoteb.lincoln.com
@@ -7463,45 +6191,28 @@ subdomains:
     www-quickquoteuslb-lnc.app.lincoln.com
     www.quickquoteus.lincoln.com
     www.raceforethecure.ford.com
-    www.racing.ford.com
-    www.raf.ford.com
-    www.ranger.ford.com
-    www.rapid.ford.com
     www.rapidqa.ford.com
-    www.rcc.ford.com
     www.rc.ford.com
     www.rea.ford.com
-    www.recompenses.ford.ca
-    www.recompensesproprioavantages.ford.ca
     www-redlb.app.ford.com
     www.redlb.ford.com
-    www.relativity.ford.com
     www.reman.ford.com
     www.remantr.ford.com
     www.request-b2b.ford.com
     www.requestb2b.ford.com
     www.request.ford.com
-    www.requesttestwork.ford.com
-    www.research.ford.com
-    www.reservas.ford.com
-    www.reserve.ford.com
     www.retaila.lincoln.com
     www.retailb.lincoln.com
     www.retail.lincoln.com
-    www.rewards.ford.ca
     www.rewards.ford.com
     www.rewards.lincoln.com
     www.rex.ford.com
-    www.rfq.ford.com
-    www.rim.ford.com
     www.riverside.ford.com
     www.rlis.ford.com
     www.rrp.ford.com
     www.s2o.ford.com
     www-safetylab2.ford.com
     www-safetylab.ford.com
-    www.saips.co.il
-    www.save.ford.com
     www.scanalystbackup.ford.com
     www.scm.ford.com
     www.scope-lite.ford.com
@@ -7509,7 +6220,6 @@ subdomains:
     www.sdcds.ford.com
     www.sdm.ford.com
     www.sds2sms.ford.com
-    www.sds.ford.com
     www.seaccount.ford.com
     www.secure.asiapacific.ford.com
     www.secureauthe.ford.com
@@ -7539,45 +6249,34 @@ subdomains:
     www.servicesusa.ford.com
     www.servicesusb.ford.com
     www.servicesus.ford.com
-    www.servis2.ford.com
     www.servis2nat1.ford.com
-    www.shareholder.ford.com
     www.shopcaa.lincoln.com
     www.shopcab.lincoln.com
     www.shopcalb.lincoln.com
     www.shopca.lincoln.com
-    www.shoppingtools.ford.com
     www.shopusa.lincoln.com
     www.shopusb.lincoln.com
     www.shopuslb.lincoln.com
     www.shopus.lincoln.com
-    www.showroom.ford.com
     www.sibmon.ford.com
     www.silas.ford.com
     www.simba.ford.com
-    www.sim.ford.com
     www.sims1.ford.com
     www.sims.ford.com
     www.slbworker.lincoln.com
     www-slbworker.pp.cf.app.lincoln.com
-    www.smh.ford.com
-    www.social.ford.com
-    www.som.ford.com
-    www.spaces.ford.com
     www.speedy.ford.com
     www.spocims.ford.com
     www.sport.ford.com
     www.sports.ford.com
     www.sps.ford.com
     www.srll.ford.com
-    www.srp.ford.com
     www.ssa.ford.com
     www.ssodev.ford.com
     www.sta.fsn.ford.com
     wwwstage.applyforcredit.ford.ca
     wwwstage.dreservices.lincoln.com
     wwwstage.ford.com
-    wwwstage-forddrive.app.ford.com
     wwwstage.help.lincoln.com
     wwwstage.kbbservices.lincoln.com
     wwwstage.lincoln.com
@@ -7596,19 +6295,13 @@ subdomains:
     wwwstg.partner.lincoln.com
     www.store.ford.com
     www.subscriptions.ford.com
-    www.superg.ford.com
-    www.suppcomm.ford.com
     www.supplier.ford.com
     www.supplierinfo.ford.com
     www.supplier.wcccs.ford.com
     www.supplier.webconnect.ford.com
-    www.support.ford.com
-    www.support.lincoln.com
     www.surfandlearn.ford.com
-    www.sustainability.ford.com
     www.svs.ford.com
     www.svs.fsao.ford.com
-    www.svt.ford.com
     www.tadgwebtrends.ford.com
     www.tagwebtrends.ford.com
     www.taxport.ford.com
@@ -7622,117 +6315,37 @@ subdomains:
     www.teamusa.ford.com
     www.telematics.ford.ca
     www.telematics.ford.com
-    www.ter.ford.com
     www.testdrive.lincoln.com
     wwwtest.mis.dearborn.ford.com
     wwwtest.partner.lincoln.com
     wwwtest.qcp.fisbr.ford.com
-    wwwtest.xnet.ford.com
     www.theatreroyal.lincoln.com
-    www-thegrid.prod.cf.app.ford.com
-    www.tires.ford.ca
     www.titus-will.ford.com
     www.tkb.ford.com
     www.tooling.ford.com
     www.t.quickquoteusa.lincoln.com
     www.t.quickquoteusb.lincoln.com
-    www.trackey.ford.com
-    www.tradein.ford.com
-    www.tradein.ford.no
-    www.tradein.lincoln.com
-    www.tririga2.ford.com
     www.tvs.fsao.ford.com
     wwwuat.authagent.lincoln.com
-    wwwuat.avcc-customer-context.ford.com
-    wwwuat-cs-cz-globalowner.cf.app.ford.com
-    wwwuat-da-dk-globalowner.cf.app.ford.com
-    wwwuat-da-dk-globalowner.pp.cf.app.ford.com
-    wwwuat-de-at-globalowner.cf.app.ford.com
-    wwwuat-de-ch-globalowner.cf.app.ford.com
-    wwwuat-de-de-globalowner.cf.app.ford.com
-    wwwuat-de-de-globalowner.pp.cf.app.ford.com
-    wwwuat-en-au-globalowner.cf.app.ford.com
-    wwwuat-en-au-globalowner.pp.cf.app.ford.com
-    wwwuat-en-co-th-globalowner.cf.app.ford.com
-    wwwuat-en-co-th-globalowner.pp.cf.app.ford.com
-    wwwuat-en-globalowner.cf.app.ford.com
     wwwuat.en.globalowner.ford.ca
-    wwwuat-en-globalowner-lincolncanada.cf.app.ford.com
-    wwwuat-en-globalowner-lincolncanada.pp.cf.app.ford.com
-    wwwuat-en-globalowner-lincoln.cf.app.ford.com
-    wwwuat.en.globalowner.lincoln.com
-    wwwuat-en-globalowner-lincoln.pp.cf.app.ford.com
-    wwwuat-en-globalowner.pp.cf.app.ford.com
-    wwwuat-en-uk-globalowner.cf.app.ford.com
-    wwwuat-en-uk-globalowner.pp.cf.app.ford.com
-    wwwuat-eportal-dealerconnection-com.cf.app.ford.com
-    wwwuat-eportal-dealerconnection-com.pp.cf.app.ford.com
-    wwwuat-es-ar-globalowner.cf.app.ford.com
-    wwwuat-es-ar-globalowner.pp.cf.app.ford.com
-    wwwuat-es-es-globalowner.cf.app.ford.com
-    wwwuat-es-es-globalowner.pp.cf.app.ford.com
-    wwwuat-es-globalowner.cf.app.ford.com
-    wwwuat-es-globalowner-cl.cf.app.ford.com
-    wwwuat-es-globalowner-cl.pp.cf.app.ford.com
-    wwwuat-es-globalowner-co.cf.app.ford.com
-    wwwuat-es-globalowner-co.pp.cf.app.ford.com
-    wwwuat.es.globalowner.ford.com
-    wwwuat.es.globalowner.ford.mx
-    wwwuat.es.globalowner.lincoln.com
-    wwwuat-es-globalowner.pp.cf.app.ford.com
-    wwwuat-fi-fi-globalowner.cf.app.ford.com
-    wwwuat-fi-fi-globalowner.pp.cf.app.ford.com
-    wwwuat-fr-be-globalowner.cf.app.ford.com
-    wwwuat-fr-ch-globalowner.cf.app.ford.com
-    wwwuat-fr-ch-globalowner.pp.cf.app.ford.com
-    wwwuat-fr-fr-globalowner.cf.app.ford.com
-    wwwuat-fr-fr-globalowner.pp.cf.app.ford.com
-    wwwuat.fr.globalowner.ford.ca
-    wwwuat-fr-globalowner-lincolncanada.cf.app.ford.com
-    wwwuat-fr-globalowner-lincolncanada.pp.cf.app.ford.com
     wwwuat.globalaccount.ford.ca
     wwwuat-globalowner.cf.app.ford.com
     wwwuat.help.lincoln.com
-    wwwuat-hu-hu-globalowner.cf.app.ford.com
-    wwwuat-hu-hu-globalowner.pp.cf.app.ford.com
-    wwwuat-it-ch-globalowner.cf.app.ford.com
-    wwwuat-it-ch-globalowner.pp.cf.app.ford.com
-    wwwuat-it-it-globalowner.cf.app.ford.com
-    wwwuat-it-it-globalowner.pp.cf.app.ford.com
     wwwuat.katiedoingprodtest.lincoln.com
     wwwuat.katietest110.lincoln.com
-    wwwuat.ko.globalowner.lincoln.com
-    wwwuat-myfordvehicle.cf.app.ford.com
-    wwwuat-myfordvehicle.pp.cf.app.ford.com
-    wwwuat-nl-nl-globalowner.cf.app.ford.com
-    wwwuat-nl-nl-globalowner.pp.cf.app.ford.com
-    wwwuat.no.globalowner.ford.no
-    wwwuat-no-no-globalowner.cf.app.ford.com
-    wwwuat-no-no-globalowner.pp.cf.app.ford.com
     wwwuat.nvo.ford.ca
     wwwuat.nvo.lincoln.com
     wwwuat.oca.ford.ca
     wwwuat.oca.lincoln.com
     wwwuat.partner.lincoln.com
-    wwwuat-pt-br-globalowner.cf.app.ford.com
-    wwwuat-pt-br-globalowner.pp.cf.app.ford.com
-    wwwuat-pt-pt-globalowner.cf.app.ford.com
-    wwwuat-pt-pt-globalowner.pp.cf.app.ford.com
-    wwwuat.ranger.ford.com
-    wwwuat-ro-ro-globalowner.cf.app.ford.com
-    wwwuat-ro-ro-globalowner.pp.cf.app.ford.com
     wwwuat-sptweb.cf.app.ford.com
-    www.udb.ford.com
     wwwu.ford.ca
-    www.unitedway.ford.com
     www.upg.ford.com
-    www.urs.ford.com
     www.us.fleet.ford.com
     www.uspac.ford.com
     www.vanityurl.ford.com
     www.vast.ford.com
     www.vcservices.ford.com
-    www.vcs.ford.com
     www.vd.ford.com
     www.vdm.ford.com
     www.vdscentral.ford.com
@@ -7743,23 +6356,15 @@ subdomains:
     www.vdsrprtg.ford.com
     www.vdstopl.ford.com
     www.vdsuk.ford.com
-    www.vector.ford.com
-    www.ve.ford.com
     www.vfs.ford.com
     www.vhi.fsao.ford.com
     www.vista.ford.com
-    www.vmacs.ford.com
     www.vms.ford.com
-    www.voarg.ford.com
     www.vo.ford.com
     www.volunteer.ford.com
     www.volvocarstechinfo.ford.com
-    www.vrhub.ford.com
     www.vrmedia.ford.com
-    www.vsem.ford.com
-    www.vsemweb.ford.com
     www.w3o.ford.com
-    www.wap.ford.com
     www.warley.ford.com
     www.warrantyauthoring.ford.com
     www.warrantybre.ford.com
@@ -7767,35 +6372,23 @@ subdomains:
     www.warrantyclaimslp.ford.com
     www.warrantyclaimsnat.ford.com
     www.warranty.ford.com
-    www.warrantyprocessing.ford.com
-    www.warriorsinpink.ford.com
     www.wayforward.ford.com
     www.webconnect.ford.com
     www.webdefects.ford.com
-    www.webex.ford.com
     www.webexsso.ford.com
     www.webfarm.ford.com
     www.webfocus7.ford.com
-    www-webfocus8.app.ford.com
     www.webfocus.ford.com
     www.webmetrics.ford.com
     www.webquote1.ford.com
     www.webquote.ford.com
-    www.webtest.ford.com
-    www.wfc.ford.com
     wwww.ford.com
     www.wfsharebi1.ford.com
     www.wfsharebi2.ford.com
     www.wfsharebi.ford.com
     wwww.incentivesqa.lincoln.com
-    www.wings.ford.com
     www.wir.armr.ford.com
-    www.wlrr.ford.com
     www.workflow.ford.com
-    www.workingcondition.ford.com
-    www.workplace.ford.com
-    www.workspace.ford.com
-    www.wq.ford.com
     www.wsi.ford.com
     www.wslb2be.ford.com
     www.wslb2bf.ford.com
@@ -7809,16 +6402,369 @@ subdomains:
     www.wss.ford.com
     www.xsbeurope.ford.com
     www.xyz.ford.com
-    www.youtube.lincoln.com
     xgtw2dev.ford.com
     xgtw2.ford.com
     xgtw2qa.ford.com
     xgtw2sdev.ford.com
-    xgtwdev.ford.com
-    xgtw.ford.com
-    xgtwqa.ford.com
-    xgtwsdev.ford.com
-    xgtws.ford.com
-    xgtwsqa.ford.com
     xsbeurope.ford.com
     xyzplan.ford.ca
+	journey.cf.app.ford.com
+	formservice.cf.app.ford.com
+	apiguide.ford.com
+	vows-config-bulk-ui-prod-dealerconnection-com.cf.app.ford.com
+	www-pandaq.app.ford.com
+	www.customs.ford.com
+	buildingaccess.ford.com
+	wwwqa.brand.ford.com
+	servicepricing.cf.app.ford.com
+	rfaservicesqa.pp.cf.app.ford.com
+	m.racing.ford.com
+	ito069763.hosts.cloud.ford.com
+	wwwedu.nvolincoln.ford.com
+	pem-vintopartfeature.cf.app.ford.com
+	wwwedu-oca-ford-ca.pp.cf.app.ford.com
+	wwwedu.nvofordca.ford.com
+	fordav.ford.com
+	www.payments.ford.com
+	mysite.spt.ford.com
+	ecceg004.conf.ford.com
+	history-fp-agenda.prod.cf.app.ford.com
+	ecaps-ap-prod.cf.app.ford.com
+	fce-alfa-payments-outbound-qa.fcealfa.ford.com
+	www.owner.ford.com
+	api.customer.econtracting.ford.com
+	www.inventory.ford.com
+	vs-fdspcl-dealerconnection-com.cf.app.ford.com
+	www.shoppingtools.ford.com
+	mqa2usapi.cv.ford.com
+	wwwqa.credit-am-eu.ford.com
+	owner.ford.com
+	wwwqa.globalaccountaem.ford.com
+	www.racing.ford.com
+	api-sre.cf.app.ford.com
+	webqa-erma.pp.cf.app.ford.com
+	vows-contract-transfer-prod.cf.app.ford.com
+	assembler.wp.dev.ford.com
+	servicepricing.prod.cf.app.ford.com
+	api-lnp-edu.rfaservices.tfoamsng.ford.com
+	consentinfo.ford.com
+	svt.ford.com
+	www.ford.com
+	help.ford.com
+	wwwqa-fleetlogin.pp.cf.app.ford.com
+	es.bp3.ford.com
+	www-pandarepq3.app.ford.com
+	wwwqa.globalowneraem.ford.com
+	wwwqa.concesionarios.ford.com
+	cotizacion.ford.com
+	wwwqa.vrmedia.ford.com
+	decisioningservice.prod.cf.app.ford.com
+	community.ford.com
+	mycareer.ford.com
+	ito029228.hosts.cloud.ford.com
+	security-restrictions-qavehicleremarketing.pp.cf.app.ford.com
+	www.fordclassic.ford.com
+	wwwedu2-nvolincolnca.pp.cf.app.ford.com
+	www-fmcdealer-aemsolr-dlr.prod.cf.app.ford.com
+	csr-portal-qa-credit-am-eu.pp.cf.app.ford.com
+	www-pcf.emivis.ford.com
+	deu2a140.b2d.ford.com
+	www.vmacs.ford.com
+	www-admin-vaccination.prod.cf.app.ford.com
+	campaign-social.ford.com
+	www.fordlpg.ford.com
+	www.nmpdcglobal.ford.com
+	www.caribe.ford.com
+	commercialsolutions.ford.com	
+	www-fpi-external.prod.cf.app.ford.com
+	www.docmgmt.fc.ford.com
+	wwwqa.planovalo.ar.ford.com
+	wwwdev.globaluptime.ford.com
+	web-ecommercefma-lnc.prod.cf.app.ford.com
+	wwwedu-gpas.pp.cf.app.ford.com
+	ewholesale-prod-ap.cf.app.ford.com
+	research.ford.com
+	ito069762.hosts.cloud.ford.com
+	www-cpmds.cf.app.ford.com
+	lpsrewardprogram.cf.app.ford.com
+	sso.ci.ford.com
+	mysite.sp.ford.com
+	www.seaccount.ford.com
+	vows-config-ui-prod-dealerconnection-com.cf.app.ford.com
+	www.brandeub.ford.com
+	bp3.ford.com
+	worktech-data-service.cf.app.ford.com
+	web2.gemstest.ford.com
+	wwwdev.ownerservicesalta.ford.com
+	focapi.cf.app.ford.com
+	vows-single-status-trans-hist-ui-prod-dlr.prod.cf.app.ford.com
+	ito024572.hosts.cloud.ford.com
+	wwwqamg.quickquotefoca.ford.com
+	gfin.ford.com
+	www.gtpcm.ford.com
+	poc.parts.ford.com
+	buildfoc.ford.com
+	angular-wings.prod.cf.app.ford.com
+	apiguide.cf.app.ford.com
+	wwwqa.seaccount.ford.com
+	www.advocacy.ford.com
+	www.vrmedia.ford.com
+	ito13256.hosts.cloud.ford.com
+	www.otf-ui.ford.com
+	registry.ford.com
+	www-contatoproativo.cf.app.ford.com
+	www-accessorizemyride.cf.app.ford.com
+	wwwqa.media.ford.com
+	www.commercialsolutions.ford.com
+	www.tririga2.ford.com
+	ovfqa.fc.ford.com
+	www.community.ford.com
+	redlb.ford.com
+	web.emmg.ford.com
+	vows-config-bulk-ui-prod-dlr.prod.cf.app.ford.com
+	prod.chargers.ford.com
+	wwwqa.mymustang.ford.com
+	electricmodelwholesale.prod.cf.app.ford.com
+	fce-aal-gateway-service-prod-fcealfa.prod.cf.app.ford.com
+	www.careers.ford.com
+	www.costapp.ford.com
+	smetrics.ford.com
+	wwwuat.avcc-customer-context.ford.com
+	web.favservices.ford.com
+	devservices.cf.app.ford.com
+	webqa-securitymap.pp.cf.app.ford.com
+	wwwdev.ownerservices.ford.com
+	www-da-dk-globalowner.cf.app.ford.com
+	www.fleetaccount.ford.com
+	media.ford.com
+	wwwqa.build.ford.com
+	checkout-eu.cf.app.ford.com
+	formservice.ici.ford.com
+	api-qa.reportingservices.tfoamsng.ford.com
+	es-m.ford.com
+	awsussb01.cf.ford.com
+	tvr.ford.com
+	es.commercialsolutions.ford.com
+	advisory.sre.ford.com
+	wwwedu.tfoams.ford.com
+	fuatuis.cv.ford.com
+	wwwmg2.pers.ford.com
+	wwwdevmg.fordvehiclesfoca.ford.com
+	image.wcm-mail.ford.com
+	appv2-safetyinsights.cf.app.ford.com
+	wwwedu.nvolincolnca.ford.com
+	webqa2.auros.ford.com
+	vows-dealer-status-reporting-ui-prod-dlr.prod.cf.app.ford.com
+	support.ford.com
+	www-cs-cz-globalowner.cf.app.ford.com
+	staging.media.ford.com
+	advisory-sre.prod.cf.app.ford.com
+	eu.fpsg.ford.com
+	ecaps-ap-prod.prod.cf.app.ford.com
+	webqa.erma.ford.com
+	csr-portal-qa.credit-am-eu.ford.com
+	owa.ford.com
+	sso.me.ci.ford.com
+	sso.caribe.ci.ford.com
+	wwwprdvp.gvms-getcurrent.ford.com
+	account.ford.com
+	vows-bulk-call-off-status-ui-prod-dlr.prod.cf.app.ford.com
+	www.ontrack.ford.com
+	fpmadevcnint.cv.ford.com
+	www.commscalendar-api.ford.com
+	ewholesale-prod-eu.cf.app.ford.com
+	www.ffe-norway.ford.com
+	www.globalowneraem.ford.com
+	www.subscriptions.ford.com
+	pem-vintopartfeature.prod.cf.app.ford.com
+	racing.ford.com
+	api-msvpud-webbff.prod.cf.app.ford.com
+	wwwqa.fcameu-gateway.ford.com
+	www-cloc-application.cf.app.ford.com
+	finsimple-own-ui-qa.ford.com
+	wwwedu-websiteprogram-dlr.pp.cf.app.ford.com
+	www.redlb.ford.com
+	www.sustainability.ford.com
+	www.designsystem.ford.com
+	api-msvpud-tripfulfillment.prod.cf.app.ford.com
+	caribe.ford.com
+	wwwqa-fcameu-gateway.pp.cf.app.ford.com
+	wwwedu.fleetlogin.ford.com
+	api.tfoams.ford.com
+	vows-catalog-ui-prod-dealerconnection-com.cf.app.ford.com
+	careers.ford.com
+	www.canada.fleet.ford.com
+	ito025397.hosts.cloud.ford.com
+	corpdev.sts.ford.com
+	pem-vintopartfeature.ford.com
+	fleet.ford.com
+	www.cotizacion.ford.com
+	wwwqa.clw.ford.com
+	www.dad.ford.com
+	wwwqa-fpracademy.pp.cf.app.ford.com
+	api-tfoams.cf.app.ford.com
+	fce-credit-risk-service-devconfig.fcealfa.ford.com
+	ivssqa.security.ford.com
+	www.wfsharebi.ford.com
+	www.ar.ford.com
+	www-bluepages.prod.cf.app.ford.com
+	qa1.parts.ford.com
+	www.media.ford.com
+	reverseproxy.globalowner.ford.com
+	ici-dcoservice-ici.cf.app.ford.com
+	www.blueovalintelligence.ford.com
+	ito069764.hosts.cloud.ford.com
+	wwwqa.eused.ford.com
+	www.wir.armr.ford.com
+	wwwqa.subscriptions.ford.com
+	adfsauth-fdspcl2-dealerconnection-com.cf.app.ford.com
+	webqa.epay.ford.com
+	wwwqa.superg.ford.com
+	www.secureauthf.ford.com
+	wwwdev-npatibantest2.app.ford.com
+	www.etisload.ford.com
+	www-ccp-command.cf.app.ford.com
+	www-redlb.app.ford.com
+	www.support.ford.com
+	www-csgbe.cf.app.ford.com
+	canada.fleet.ford.com
+	vdcc-api-launchcard.cf.app.ford.com
+	apiguide.prod.cf.app.ford.com
+	fcealfa-rds-sit.fcealfa.ford.com
+	www.mycareer.ford.com
+	email.pcf.ford.com
+	fb-fdspcl-dlr.prod.cf.app.ford.com
+	socialqa.ford.com
+	web-mpnr.cf.app.ford.com
+	www.lookandstyle.ford.com
+	wwwqa.bpusa.ford.com
+	wwwqa.dfyservices.ford.com
+	www.telematics.ford.com
+	wwwedu-nvolincolnca.pp.cf.app.ford.com
+	www.research.ford.com
+	wwwqa.vdsin.ford.com
+	www.ccp.command.ford.com
+	sso.ssa.ci.ford.com
+	wwwqa-concesionarios.pp.cf.app.ford.com
+	wwwqa.bp3.ford.com
+	apiext-vehiclegrounding.prod.cf.app.ford.com
+	vows-order-changes-ui-prod-dlr.prod.cf.app.ford.com
+	www.dfyservicesa.ford.com
+	origin-m2.ford.com
+	www-bluecrew-service.cf.app.ford.com
+	mymustang.ford.com
+	ewholesale-prod-no.cf.app.ford.com
+	buildingaccess.prod.cf.app.ford.com
+	web.stamps-j2.ford.com
+	ito061410.hosts.cloud.ford.com
+	api-away-message-service-test-webexteams.pp.cf.app.ford.com
+	www.planovalo.ar.ford.com
+	ctapromos.ici.ford.com
+	www.pro.ford.com
+	wwwedu.gpas.ford.com
+	fce-edms-service-qa.fcealfa.ford.com
+	www.svt.ford.com
+	ita68500.b2d.ford.com
+	decisioningservice.ici.ford.com
+	webqa.efdvs.ford.com
+	ito13849.hosts.cloud.ford.com
+	sso.india.ci.ford.com
+	fce-credit-risk-service-sit.fcealfa.ford.com
+	adm.spt.ford.com
+	gtpcm.ford.com
+	edu.accessories.ford.com
+	es.telematics.ford.com
+	focapi.ford.com
+	www.csgbe.ford.com
+	www-bluepages.cf.app.ford.com
+	email-pcf.cf.app.ford.com
+	blueovalintelligence.ford.com
+	www.fordav.ford.com
+	ito18615.hosts.cloud.ford.com
+	digitalservices.ford.com
+	ito025291.hosts.cloud.ford.com
+	pro.ford.com
+	webqa.securitymap.ford.com
+	www-fmcdealer-edms-service-dlr.prod.cf.app.ford.com
+	fce-edms-service-edu.fcealfa.ford.com
+	wwwqa.fdse1.ford.com
+	wwwpilot.analytics.ford.com
+	qa.chargers.ford.com
+	covid19survey.cf.app.ford.com
+	webqa2-auros.pp.cf.app.ford.com
+	inventory.ford.com
+	wings-o.ford.com
+	wwwperf.dfyservices.ford.com
+	fce-credit-risk-service-qa.fcealfa.ford.com
+	vehgridsystem.ici.ford.com
+	wwwedu2.nvouslincoln.ford.com
+	www.mymustang.ford.com
+	applyforcredit.ford.com
+	www.proximity.auros.ford.com
+	www.lom.ford.com
+	apcaccs.epid.ford.com
+	wwwedu-nvolincoln.pp.cf.app.ford.com
+	wwwedu-eblesscapslnd-dlr.pp.cf.app.ford.com
+	sso.centroamerica.ci.ford.com
+	wwwqa.ivis3.ford.com
+	wwwqa.brandeub.ford.com
+	www.bluepages.ford.com
+	wwwdev.clw.ford.com
+	puma.cf.app.ford.com
+	vows-order-changes-ui-prod-dealerconnection-com.cf.app.ford.com
+	www.brandusa.ford.com
+	wwwqa-fceaims-dlr.pp.cf.app.ford.com
+	wwwqa.dsb2.ford.com
+	www.corporate.ford.com
+	www.mexicohourlypaystub.ford.com
+	www-ca-cloc-application.prod.cf.app.ford.com
+	angular.wings.ford.com
+	vsm-static-files-prod-dealerconnection-com.cf.app.ford.com
+	siliconvalley.ford.com
+	bca.ford.com
+	wwwqa.fleetlogin.ford.com
+	wwwqa.fimco.ford.com
+	vehgridsystem-ici.cf.app.ford.com
+	vdcc-api-quality.cf.app.ford.com
+	mqacntest.cv.ford.com
+	www-commscalendar-api.cf.app.ford.com
+	gfin-prod.cf.app.ford.com
+	dealermaint-dlr.prod.cf.app.ford.com
+	m.ford.com
+	www.gspoolselection.ford.com
+	www-admin-vaccination.cf.app.ford.com
+	build.ford.com
+	api-spdqs.cf.app.ford.com
+	decisioningservice.cf.app.ford.com
+	uvissuites-arsd-service.vrs.ford.com
+	wwwqa.contrack.ford.com
+	sustainability.ford.com
+	syncsupport.ford.com
+	www.dfyservices.ford.com
+	wwwqa.advocacy.ford.com
+	wwwqa.arsom.ford.com
+	wwwqa.tfoamsng.ford.com
+	ewholesale-prod-we.cf.app.ford.com
+	qa-ecommercefma-lnc.pp.cf.app.ford.com
+	ogql-graph-dev.ford.com
+	ito028496.hosts.cloud.ford.com
+	www-ca-cloc-application.cf.app.ford.com
+	www.accessorizemyride.ford.com
+	www.globalaccountaem.ford.com
+	wwwqa-hrjoe.pp.cf.app.ford.com
+	vows-intelligent-finder-ui-prod-dlr.prod.cf.app.ford.com
+	ito13255.hosts.cloud.ford.com
+	social.ford.com
+	vows-status-analysis-detail-ui-prod-dlr.prod.cf.app.ford.com
+	wwwuat.ranger.ford.com
+	webqa-global8d.app.ford.com
+	wwwqa3.rvcm.ford.com
+	brand.ford.com
+	campaign-socialqa.ford.com
+	www.mach1ml-dev.ford.com
+	fcealfa-rds-qa.fcealfa.ford.com
+	accessories.ford.com
+	wwwqa.imagine.ford.com
+	gtpcm.cf.app.ford.com
+	www-admin-juntos.cf.app.ford.com
+	wwwqa.buildfoc.ford.com

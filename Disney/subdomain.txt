@@ -53,7 +53,7 @@ dev.disneyconnect.com
 thissubdomainshouldonlyresolveifwildcard.disneyconnect.com
 www.disneyconnect.com
 
-
+www.disneyworld.co.uk
 
 bamtools.20thtv.com
 new.20thtv.com

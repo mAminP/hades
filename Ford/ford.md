@@ -1,55 +1,445 @@
-ford.com
-Organization: Ford Motor Company (FORDMO)
-
-© 2023 Ford Motor Company
+ford.com 
+Organization:   Ford Motor Company 
+ 
+© Ford Motor Company
 
 domains:
-www.fordpro.com
-dealerconnection.com
-www.lincoln.com
-www.quicklane.com
-www.motorcraft.com
-fordvehicles.com
-parts.ford.com
-www.buyfordnow.com
-www.ford.co.nz
-www.fordpro.ca
-fordethiopia.com
-www.troller.com.br
-estandevirtualranger.com.br
-www.saips.co.il
-ford.ca
-www.newfordtech.com
-www.ford.no
-ford.com
-fordpro.com
-fordpro.ca
-lincoln.com
-omnicraftautoparts.com  
-motorcraft.com
-fordmoney.de
-ford.de 
-ford.co.uk
-ford.ca 
-ford.es 
-ford.fr 
-ford.it 
-ford.nl 
-ford.gr
-ford.dk
-ford.ch
-ford.lu
-ford.si
-ford.hu
-ford.pt
-ford.eu
-ford.be
-ford.se
-fordpro.fr
-fordpro.es
-fordpro.it
-911assist.com
-ask-ford.com
+
+	ford.com
+	fordpro.com
+	fordpro.ca
+	lincoln.com
+	www.quicklane.com
+	omnicraftautoparts.com  
+	motorcraft.com
+	fordmoney.de
+	ford.de 
+	ford.co.uk
+	ford.ca 
+	ford.es 
+	ford.fr 
+	ford.it 
+	ford.nl 
+	ford.gr
+	ford.dk
+	ford.ch
+	ford.lu
+	ford.si
+	ford.hu
+	ford.pt
+	ford.eu
+	ford.be
+	ford.se
+	ford.dk
+	fordpro.fr
+	fordpro.es
+	fordpro.it
+	911assist.com
+	ask-ford.com
+	fordpro.nl
+	ford.no
+	ford.be
+	ford.fi
+	ford.ie
+	ford.ro
+	ford.hu	
+	ford.cz
+	ford.nl
+	ford.pl
+	
+	
+
+                     
+
+
+
+
+ASN:
+	AS3389:
+	19.12.72.0/21
+	19.12.88.0/21
+	19.12.96.0/20
+	19.12.112.0/20
+	19.12.128.0/21
+	19.12.136.0/21
+	
+	AS10146:
+	19.12.32.0/22
+	19.12.52.0/22
+
+	AS28729:
+	19.12.16.0/21
+
+
+
+cencys search: 
+parsed.issuer.organization: "Ford Motor Company"
+parsed.issuer.dn: "*ford.*"
+
+	
+subdomains: 
+
+	www-origin.ar.ford.com
+	journey.cf.app.ford.com
+	formservice.cf.app.ford.com
+	apiguide.ford.com
+	vows-config-bulk-ui-prod-dealerconnection-com.cf.app.ford.com
+	www-pandaq.app.ford.com
+	www.customs.ford.com
+	buildingaccess.ford.com
+	wwwqa.brand.ford.com
+	servicepricing.cf.app.ford.com
+	rfaservicesqa.pp.cf.app.ford.com
+	m.racing.ford.com
+	ito069763.hosts.cloud.ford.com
+	wwwedu.nvolincoln.ford.com
+	pem-vintopartfeature.cf.app.ford.com
+	wwwedu-oca-ford-ca.pp.cf.app.ford.com
+	wwwedu.nvofordca.ford.com
+	fordav.ford.com
+	www.payments.ford.com
+	mysite.spt.ford.com
+	ecceg004.conf.ford.com
+	history-fp-agenda.prod.cf.app.ford.com
+	ecaps-ap-prod.cf.app.ford.com
+	fce-alfa-payments-outbound-qa.fcealfa.ford.com
+	www.owner.ford.com
+	api.customer.econtracting.ford.com
+	www.inventory.ford.com
+	vs-fdspcl-dealerconnection-com.cf.app.ford.com
+	www.shoppingtools.ford.com
+	mqa2usapi.cv.ford.com
+	wwwqa.credit-am-eu.ford.com
+	owner.ford.com
+	wwwqa.globalaccountaem.ford.com
+	www.racing.ford.com
+	api-sre.cf.app.ford.com
+	webqa-erma.pp.cf.app.ford.com
+	vows-contract-transfer-prod.cf.app.ford.com
+	assembler.wp.dev.ford.com
+	servicepricing.prod.cf.app.ford.com
+	api-lnp-edu.rfaservices.tfoamsng.ford.com
+	consentinfo.ford.com
+	svt.ford.com
+	www.ford.com
+	help.ford.com
+	wwwqa-fleetlogin.pp.cf.app.ford.com
+	es.bp3.ford.com
+	www-pandarepq3.app.ford.com
+	wwwqa.globalowneraem.ford.com
+	wwwqa.concesionarios.ford.com
+	cotizacion.ford.com
+	wwwqa.vrmedia.ford.com
+	decisioningservice.prod.cf.app.ford.com
+	community.ford.com
+	mycareer.ford.com
+	ito029228.hosts.cloud.ford.com
+	security-restrictions-qavehicleremarketing.pp.cf.app.ford.com
+	www.fordclassic.ford.com
+	wwwedu2-nvolincolnca.pp.cf.app.ford.com
+	www-fmcdealer-aemsolr-dlr.prod.cf.app.ford.com
+	csr-portal-qa-credit-am-eu.pp.cf.app.ford.com
+	www-pcf.emivis.ford.com
+	deu2a140.b2d.ford.com
+	www.vmacs.ford.com
+	www-admin-vaccination.prod.cf.app.ford.com
+	campaign-social.ford.com
+	www.fordlpg.ford.com
+	www.nmpdcglobal.ford.com
+	www.caribe.ford.com
+	commercialsolutions.ford.com	
+	www-fpi-external.prod.cf.app.ford.com
+	www.docmgmt.fc.ford.com
+	wwwqa.planovalo.ar.ford.com
+	wwwdev.globaluptime.ford.com
+	web-ecommercefma-lnc.prod.cf.app.ford.com
+	wwwedu-gpas.pp.cf.app.ford.com
+	ewholesale-prod-ap.cf.app.ford.com
+	research.ford.com
+	ito069762.hosts.cloud.ford.com
+	www-cpmds.cf.app.ford.com
+	lpsrewardprogram.cf.app.ford.com
+	sso.ci.ford.com
+	mysite.sp.ford.com
+	www.seaccount.ford.com
+	vows-config-ui-prod-dealerconnection-com.cf.app.ford.com
+	www.brandeub.ford.com
+	bp3.ford.com
+	worktech-data-service.cf.app.ford.com
+	web2.gemstest.ford.com
+	wwwdev.ownerservicesalta.ford.com
+	focapi.cf.app.ford.com
+	vows-single-status-trans-hist-ui-prod-dlr.prod.cf.app.ford.com
+	ito024572.hosts.cloud.ford.com
+	wwwqamg.quickquotefoca.ford.com
+	gfin.ford.com
+	www.gtpcm.ford.com
+	poc.parts.ford.com
+	buildfoc.ford.com
+	angular-wings.prod.cf.app.ford.com
+	apiguide.cf.app.ford.com
+	wwwqa.seaccount.ford.com
+	www.advocacy.ford.com
+	www.vrmedia.ford.com
+	ito13256.hosts.cloud.ford.com
+	www.otf-ui.ford.com
+	registry.ford.com
+	www-contatoproativo.cf.app.ford.com
+	www-accessorizemyride.cf.app.ford.com
+	wwwqa.media.ford.com
+	www.commercialsolutions.ford.com
+	www.tririga2.ford.com
+	ovfqa.fc.ford.com
+	www.community.ford.com
+	redlb.ford.com
+	web.emmg.ford.com
+	vows-config-bulk-ui-prod-dlr.prod.cf.app.ford.com
+	prod.chargers.ford.com
+	wwwqa.mymustang.ford.com
+	electricmodelwholesale.prod.cf.app.ford.com
+	fce-aal-gateway-service-prod-fcealfa.prod.cf.app.ford.com
+	www.careers.ford.com
+	www.costapp.ford.com
+	smetrics.ford.com
+	wwwuat.avcc-customer-context.ford.com
+	web.favservices.ford.com
+	devservices.cf.app.ford.com
+	webqa-securitymap.pp.cf.app.ford.com
+	wwwdev.ownerservices.ford.com
+	www-da-dk-globalowner.cf.app.ford.com
+	www.fleetaccount.ford.com
+	media.ford.com
+	wwwqa.build.ford.com
+	checkout-eu.cf.app.ford.com
+	formservice.ici.ford.com
+	api-qa.reportingservices.tfoamsng.ford.com
+	es-m.ford.com
+	awsussb01.cf.ford.com
+	tvr.ford.com
+	es.commercialsolutions.ford.com
+	advisory.sre.ford.com
+	wwwedu.tfoams.ford.com
+	fuatuis.cv.ford.com
+	wwwmg2.pers.ford.com
+	wwwdevmg.fordvehiclesfoca.ford.com
+	image.wcm-mail.ford.com
+	appv2-safetyinsights.cf.app.ford.com
+	wwwedu.nvolincolnca.ford.com
+	webqa2.auros.ford.com
+	vows-dealer-status-reporting-ui-prod-dlr.prod.cf.app.ford.com
+	support.ford.com
+	www-cs-cz-globalowner.cf.app.ford.com
+	staging.media.ford.com
+	advisory-sre.prod.cf.app.ford.com
+	eu.fpsg.ford.com
+	ecaps-ap-prod.prod.cf.app.ford.com
+	webqa.erma.ford.com
+	csr-portal-qa.credit-am-eu.ford.com
+	owa.ford.com
+	sso.me.ci.ford.com
+	sso.caribe.ci.ford.com
+	wwwprdvp.gvms-getcurrent.ford.com
+	account.ford.com
+	vows-bulk-call-off-status-ui-prod-dlr.prod.cf.app.ford.com
+	www.ontrack.ford.com
+	fpmadevcnint.cv.ford.com
+	www.commscalendar-api.ford.com
+	ewholesale-prod-eu.cf.app.ford.com
+	www.ffe-norway.ford.com
+	www.globalowneraem.ford.com
+	www.subscriptions.ford.com
+	pem-vintopartfeature.prod.cf.app.ford.com
+	racing.ford.com
+	api-msvpud-webbff.prod.cf.app.ford.com
+	wwwqa.fcameu-gateway.ford.com
+	www-cloc-application.cf.app.ford.com
+	finsimple-own-ui-qa.ford.com
+	wwwedu-websiteprogram-dlr.pp.cf.app.ford.com
+	www.redlb.ford.com
+	www.sustainability.ford.com
+	www.designsystem.ford.com
+	api-msvpud-tripfulfillment.prod.cf.app.ford.com
+	caribe.ford.com
+	wwwqa-fcameu-gateway.pp.cf.app.ford.com
+	wwwedu.fleetlogin.ford.com
+	api.tfoams.ford.com
+	vows-catalog-ui-prod-dealerconnection-com.cf.app.ford.com
+	careers.ford.com
+	www.canada.fleet.ford.com
+	ito025397.hosts.cloud.ford.com
+	corpdev.sts.ford.com
+	pem-vintopartfeature.ford.com
+	fleet.ford.com
+	www.cotizacion.ford.com
+	wwwqa.clw.ford.com
+	www.dad.ford.com
+	wwwqa-fpracademy.pp.cf.app.ford.com
+	api-tfoams.cf.app.ford.com
+	fce-credit-risk-service-devconfig.fcealfa.ford.com
+	ivssqa.security.ford.com
+	www.wfsharebi.ford.com
+	www.ar.ford.com
+	www-bluepages.prod.cf.app.ford.com
+	qa1.parts.ford.com
+	www.media.ford.com
+	reverseproxy.globalowner.ford.com
+	ici-dcoservice-ici.cf.app.ford.com
+	www.blueovalintelligence.ford.com
+	ito069764.hosts.cloud.ford.com
+	wwwqa.eused.ford.com
+	www.wir.armr.ford.com
+	wwwqa.subscriptions.ford.com
+	adfsauth-fdspcl2-dealerconnection-com.cf.app.ford.com
+	webqa.epay.ford.com
+	wwwqa.superg.ford.com
+	www.secureauthf.ford.com
+	wwwdev-npatibantest2.app.ford.com
+	www.etisload.ford.com
+	www-ccp-command.cf.app.ford.com
+	www-redlb.app.ford.com
+	www.support.ford.com
+	www-csgbe.cf.app.ford.com
+	canada.fleet.ford.com
+	vdcc-api-launchcard.cf.app.ford.com
+	apiguide.prod.cf.app.ford.com
+	fcealfa-rds-sit.fcealfa.ford.com
+	www.mycareer.ford.com
+	email.pcf.ford.com
+	fb-fdspcl-dlr.prod.cf.app.ford.com
+	socialqa.ford.com
+	web-mpnr.cf.app.ford.com
+	www.lookandstyle.ford.com
+	wwwqa.bpusa.ford.com
+	wwwqa.dfyservices.ford.com
+	www.telematics.ford.com
+	wwwedu-nvolincolnca.pp.cf.app.ford.com
+	www.research.ford.com
+	wwwqa.vdsin.ford.com
+	www.ccp.command.ford.com
+	sso.ssa.ci.ford.com
+	wwwqa-concesionarios.pp.cf.app.ford.com
+	wwwqa.bp3.ford.com
+	apiext-vehiclegrounding.prod.cf.app.ford.com
+	vows-order-changes-ui-prod-dlr.prod.cf.app.ford.com
+	www.dfyservicesa.ford.com
+	origin-m2.ford.com
+	www-bluecrew-service.cf.app.ford.com
+	mymustang.ford.com
+	ewholesale-prod-no.cf.app.ford.com
+	buildingaccess.prod.cf.app.ford.com
+	web.stamps-j2.ford.com
+	ito061410.hosts.cloud.ford.com
+	api-away-message-service-test-webexteams.pp.cf.app.ford.com
+	www.planovalo.ar.ford.com
+	ctapromos.ici.ford.com
+	www.pro.ford.com
+	wwwedu.gpas.ford.com
+	fce-edms-service-qa.fcealfa.ford.com
+	www.svt.ford.com
+	ita68500.b2d.ford.com
+	decisioningservice.ici.ford.com
+	webqa.efdvs.ford.com
+	ito13849.hosts.cloud.ford.com
+	sso.india.ci.ford.com
+	fce-credit-risk-service-sit.fcealfa.ford.com
+	adm.spt.ford.com
+	gtpcm.ford.com
+	edu.accessories.ford.com
+	es.telematics.ford.com
+	focapi.ford.com
+	www.csgbe.ford.com
+	www-bluepages.cf.app.ford.com
+	email-pcf.cf.app.ford.com
+	blueovalintelligence.ford.com
+	www.fordav.ford.com
+	ito18615.hosts.cloud.ford.com
+	digitalservices.ford.com
+	ito025291.hosts.cloud.ford.com
+	pro.ford.com
+	webqa.securitymap.ford.com
+	www-fmcdealer-edms-service-dlr.prod.cf.app.ford.com
+	fce-edms-service-edu.fcealfa.ford.com
+	wwwqa.fdse1.ford.com
+	wwwpilot.analytics.ford.com
+	qa.chargers.ford.com
+	covid19survey.cf.app.ford.com
+	webqa2-auros.pp.cf.app.ford.com
+	inventory.ford.com
+	wings-o.ford.com
+	wwwperf.dfyservices.ford.com
+	fce-credit-risk-service-qa.fcealfa.ford.com
+	vehgridsystem.ici.ford.com
+	wwwedu2.nvouslincoln.ford.com
+	www.mymustang.ford.com
+	applyforcredit.ford.com
+	www.proximity.auros.ford.com
+	www.lom.ford.com
+	apcaccs.epid.ford.com
+	wwwedu-nvolincoln.pp.cf.app.ford.com
+	wwwedu-eblesscapslnd-dlr.pp.cf.app.ford.com
+	sso.centroamerica.ci.ford.com
+	wwwqa.ivis3.ford.com
+	wwwqa.brandeub.ford.com
+	www.bluepages.ford.com
+	wwwdev.clw.ford.com
+	puma.cf.app.ford.com
+	vows-order-changes-ui-prod-dealerconnection-com.cf.app.ford.com
+	www.brandusa.ford.com
+	wwwqa-fceaims-dlr.pp.cf.app.ford.com
+	wwwqa.dsb2.ford.com
+	www.corporate.ford.com
+	www.mexicohourlypaystub.ford.com
+	www-ca-cloc-application.prod.cf.app.ford.com
+	angular.wings.ford.com
+	vsm-static-files-prod-dealerconnection-com.cf.app.ford.com
+	siliconvalley.ford.com
+	bca.ford.com
+	wwwqa.fleetlogin.ford.com
+	wwwqa.fimco.ford.com
+	vehgridsystem-ici.cf.app.ford.com
+	vdcc-api-quality.cf.app.ford.com
+	mqacntest.cv.ford.com
+	www-commscalendar-api.cf.app.ford.com
+	gfin-prod.cf.app.ford.com
+	dealermaint-dlr.prod.cf.app.ford.com
+	m.ford.com
+	www.gspoolselection.ford.com
+	www-admin-vaccination.cf.app.ford.com
+	build.ford.com
+	api-spdqs.cf.app.ford.com
+	decisioningservice.cf.app.ford.com
+	uvissuites-arsd-service.vrs.ford.com
+	wwwqa.contrack.ford.com
+	sustainability.ford.com
+	syncsupport.ford.com
+	www.dfyservices.ford.com
+	wwwqa.advocacy.ford.com
+	wwwqa.arsom.ford.com
+	wwwqa.tfoamsng.ford.com
+	ewholesale-prod-we.cf.app.ford.com
+	qa-ecommercefma-lnc.pp.cf.app.ford.com
+	ogql-graph-dev.ford.com
+	ito028496.hosts.cloud.ford.com
+	www-ca-cloc-application.cf.app.ford.com
+	www.accessorizemyride.ford.com
+	www.globalaccountaem.ford.com
+	wwwqa-hrjoe.pp.cf.app.ford.com
+	vows-intelligent-finder-ui-prod-dlr.prod.cf.app.ford.com
+	ito13255.hosts.cloud.ford.com
+	social.ford.com
+	vows-status-analysis-detail-ui-prod-dlr.prod.cf.app.ford.com
+	wwwuat.ranger.ford.com
+	webqa-global8d.app.ford.com
+	wwwqa3.rvcm.ford.com
+	brand.ford.com
+	campaign-socialqa.ford.com
+	www.mach1ml-dev.ford.com
+	fcealfa-rds-qa.fcealfa.ford.com
+	accessories.ford.com
+	wwwqa.imagine.ford.com
+	gtpcm.cf.app.ford.com
+	www-admin-juntos.cf.app.ford.com
+	wwwqa.buildfoc.ford.com
 fordpro.nl
 ford.no
 ford.fi

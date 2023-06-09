@@ -363,28 +363,6 @@
     www-admin-juntos.cf.app.ford.com
     wwwqa.buildfoc.ford.com
     fordpro.nl ford.no ford.fi ford.ie ford.ro ford.hu ford.cz ford.nl ford.pl
-
-    Associated emails: website.informer.com:
-
-    faoude@ford.com
-    msladek@ford.com
-    fddnsadm@ford.com
-    csugimo1@ford.com
-    nmahabee@ford.com
-    kidemits@ford.com
-    prahmaa1@ford.com
-    jarauj45@ford.com
-    vcarmeli@ford.com
-    tbehrik1@ford.com
-    dnsadmin@ford.com
-    ASN: AS3389: 19.12.72.0/21 19.12.88.0/21 19.12.96.0/20 19.12.112.0/20 19.12.128.0/21 19.12.136.0/21 128.5.0.0/20 19.12.136.0/21
-
-    AS10146: 19.12.32.0/22 19.12.52.0/22 AS28729: 19.12.16.0/21
-
-    cencys search: parsed.issuer.organization: "Ford Motor Company" parsed.issuer.dn: "ford."
-
-    subdomains:
-
     2020corsair.lincoln.com
     20fltfpgfleet.ford.com
     222.ford.com

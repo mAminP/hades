@@ -20,3 +20,16 @@ hezardastandomains@gmail.com
 armanksh71@gmail.com
 remohammadi@gmail.com
 ```	
+
+## Domains
+```
+cafebazaar.ir
+balad.ir
+cafebazar.ir
+casualcamp.ir
+enigmind.ir
+hezardastan.ir
+buzzybuzz.ir
+getbazaar.ir
+bazaarinsight.ir
+```

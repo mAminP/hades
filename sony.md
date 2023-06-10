@@ -3,11 +3,11 @@
 # Ryan's recon results `(in progress ...)`.
 
 ## Domains
----------
+
 The results of **whoxy.com**, **securitytrails.com**.
 
 ### Verified:
---------
+
 * sony.net
 * sony.com
 * sony.de
@@ -40,7 +40,7 @@ The results of **whoxy.com**, **securitytrails.com**.
 * sonymusic.de
 * sonymusic.com
 * sonymusic.co.jp
-* sonypictures.com
+
 * playmemoriesonline.com
 * sonykigyo.jp
 * sony.net	
@@ -81,15 +81,42 @@ The results of **whoxy.com**, **securitytrails.com**.
 * sony.com.sg
 * alphauniverse-latin.com
 * sonycreativesoftware.com
+* sonypictures.com
+* sonypictures.net
+* sonypictures.ca
+* sonypictures.be
+* sonypictures.be
+* sonypictures.dk
+* sonypictures.de
+* sonypictures.es
+* sonypictures.fr
+* sonypictures.co.uk
+* sonypictures.at
+* sonypictures.se
+* sonypictures.sina.com.cn
+* sonypictures.in
+* sonypictures.co.id
+* sonypictures.jp
+* sonypictures.my
+* sonypictures.co.kr
+* sonypictures.co.za
+* sonypicturesmuseum.com
+* sonypicturesstudios.com
+* sonypicturesstudiostours.com
+* sonypicturesjobs.com
 
 ### Not Sure:
----------
+
 * xperiarewards.co.uk
 * sonydadc.com
 * sonylifefa.com
 
-Certificate Organization:
-------------
+### New Domains:
+
+* sony-olympus-medical.com
+
+## Certificate Organization:
+
 * Sony Australia Limited
 * Sony Global Solutions Inc.
 * Sony Creative Software Inc.
@@ -101,10 +128,12 @@ Certificate Organization:
 * Sony Life Insurance Co., Ltd.
 * Sony Marketing Inc.
 * Sony Corporation Of America
+* Sony Pictures Entertainment Inc
+* Sony Media Software and Services Inc.
 
 
-Google Dork:
------------
+## Google Dork:
+
 * COPYRIGHT © 2023 SONY NEW ZEALAND. ALL RIGHTS RESERVED.
 * © 2003-2023 SONY CREATIVE SOFTWARE INC. ALL RIGHTS RESERVED.
 * © 2023 Sony Europe B.V.
@@ -132,16 +161,20 @@ Google Dork:
 * © 2023 Sony Media Cloud Services LLC. All rights reserved.
 * © 2023 Sony Interactive Entertainment Inc.
 
+* Sony Computer Science Laboratories, Inc.
+* Sony Global Education, Inc.
+* Sony Space Communications Inc.
 
-NameServer:
-----------
+
+## NameServer:
+
 * ns1.sony-asia.com
 * ns2.sony-asia.com
 * ns3.sony-asia.com
 
 
-Emails:
-------
+## Emails:
+
 * sgs-domain-regist@jp.sony.com
 * hostmaster@sony.com
 * dhiraj.haritwal@sony.com	
@@ -152,3 +185,34 @@ Emails:
 * keita.nagao@sony.com	
 * Domain.MC@sony.com	
 * ipd_domain@jp.sony.com
+
+## ASNs:
+
+* 38258   
+* 3725    
+* 9619    
+* 19419   
+
+## CIDRs:
+
+* 103.240.128.0/22
+* 103.240.131.0/24
+* 121.100.32.0/21
+* 121.100.32.0/20
+* 121.100.40.0/21
+* 146.215.8.0/22
+* 160.33.98.0/24
+* 160.33.110.0/24
+* 160.33.192.0/20
+* 137.153.0.0/16
+* 146.215.0.0/16
+* 211.125.139.0/24
+* 211.125.140.0/24
+* 173.251.240.0/23
+* 173.251.240.0/21
+* 173.251.241.0/24
+* 173.251.244.0/24
+* 173.251.245.0/24
+* 173.251.248.0/22
+* 208.84.224.0/22
+* 208.84.227.0/24

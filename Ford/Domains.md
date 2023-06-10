@@ -1,11 +1,12 @@
 # Domains Of Ford
 
 ```
-    © Ford Motor Company 
+   © Ford Motor Company 
 https://website.informer.com/email/dnsmgr@ford.com
-
+tlsx = 19.12.112.0/20
 email:
 dnsmgr@ford.com
+
 
 ford.com
 fordpro.com
@@ -85,10 +86,10 @@ fordenespanol.com
 fordcares.com
 myfordbenefits.com
 fordaccessories.com
- fordcredit.ca
- ford.com.co
- octaneacademy.com
- northlandford.com
+fordcredit.ca
+ford.com.co
+octaneacademy.com
+northlandford.com
 myfordmobile.com
 fordkuga.fr
 qualitycareservice.com
@@ -107,6 +108,10 @@ fordcaminhoes.com.br
 ford-ecosport-entdecken.de
 fordpass.com
 fordtoughestticket.com
+forddirectdealers.com
+fordservicespecials.com
+fordgo.com.br
+fordacademy.co.za
 
 
 19.12.112.0/20 | tlsx :
@@ -529,4 +534,9 @@ genuineford.com
 fordblueadvantage.com
 quicklane.mx
 histoiref150.ca
+
+
+Acquisitions:
+quantumsignalai.com
+volvocars.com
 ```
